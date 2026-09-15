@@ -1,0 +1,25 @@
+Component,Quantity,Material,Density (g/cm³),Volume (cm³),Mass (g),Notes
+Housing,1,Stainless Steel 316L,7.85,1.71,13.39,Main structural body
+Inner Liner,1,Aluminum 6061,2.7,0.29,0.79,Plasma-facing surface
+Injector Ring,1,Aluminum 6061,2.7,0.02,0.05,10 ports
+Coils,14,Copper Wire,8.96,1.35,12.12,Magnetic field coils
+Nozzle,1,Aluminum 6061,2.7,0.09,0.25,Convergent-divergent
+Support Struts,4,Stainless Steel 316L,7.85,0.08,0.63,Internal supports
+Cooling Jacket,1,Aluminum 6061,2.7,1.05,2.84,4 cooling ports
+Thermal Shield,1,Aluminum 6061,2.7,0.42,1.13,Radiation shield
+Frame Rails,4,Stainless Steel 316L,7.85,0.27,2.09,Structural frame
+Mounting Feet,4,Stainless Steel 316L,7.85,0.04,0.28,Mounting points
+Electronics Bay,1,Aluminum 6061,2.7,0.23,0.63,Control electronics
+Nozzle Guard,1,Aluminum 6061,2.7,0.59,1.58,Exit protection
+Bias Ring Electrodes,2,Copper,8.96,0.06,0.52,Rotation control rings
+Gas Box,1,Aluminum 6061,2.7,0.09,0.23,SOL thrust augmentation
+RMF Antennas,4,Copper,8.96,0.37,3.28,Odd-parity RMF heating
+
+TOTAL ASSEMBLY,1,Mixed Materials,N/A,N/A,0.04,Complete thruster assembly
+
+Target Constraints:
+Target Thrust,4500.0 N
+Target Power,80000000.0 kW
+Target Voltage,3000000 V
+Target Mass,18.00 kg
+Actual Mass,0.04 kg

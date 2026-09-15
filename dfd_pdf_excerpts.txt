@@ -1,0 +1,2356 @@
+==== 1-s2.0-S0094576514003154-main.pdf ====
+FRC
+Aneutronic
+The Direct Fusion Drive (DFD), a compact, anuetronic fusion engine, will enable more
+reversed configuration (FRC) for magnetic confinement. The FRC has a simple linear
+solenoid coil geometry yet generates higher plasma pressure, hence higher fusion power
+density, for a given magnetic field strength than other magnetic-confinement plasma
+radiation is recycled to maintain the fusion temperature. The charged reaction products,
+augmented by additional propellant, are exhausted through a magnetic nozzle. A 1 MW
+DFD is presented in the context of a mission to deploy the James Webb Space Telescope
+(6200 kg) from GPS orbit to a Sun–Earth L2 halo orbit in 37 days using just 353 kg of
+propellant and about half a kilogram of 3He. The engine is designed to produce 40 N of
+thrust with an exhaust velocity of 56.5 km/s and has a specific power of 0.18 kW/kg.
+require high-thrust, high-exhaust velocity engines. These
+each mission. Thrust can be further augmented by the
+by the Direct Fusion Drive engine (DFD) with moderate
+power ( (cid:1) 1 MW) and specific impulse of at least 5750 s.
+of the DFD, which can potentially achieve up to 20 MW of
+manned missions. The 1 MW DFD will be presented in
+Nexis ion & hall thrusters
+Comparison of propulsion technologies for deploying the James Webb Space Telescope. A Δu of 3.1 km/s, required for a low thrust transfer from GPS orbit
+to L2, is used as a baseline for comparison. The mass ratios are calculated using the rocket equation, using the initial mass mi, final mass mf , exhaust
+the propulsion system, therefore an advanced solar cell power system with specific power of 500 W/kg [26] is used for the most favorable comparison.
+Fusion propulsion usually does not involve direct propulsion, but uses the fusion engine as a power source for heating, thus thrust data is not included for
+D–T or p–11B. The values for D–3He are based on the results from the example mission in Section 4.
+Propellant Exhaust velocity, ue (km/s) Mass ratio, mi=mf (kg/kg) Thrust, T (N) Thrust-to-weight ratio References
+D–3He
+DFD
+D–3He
+and shielding severely limit their space flight capabilities.
+prove very undesirable in comparison to the DFD. While
+they exhibit a high thrust-to-weight ratio, their exhaust
+velocity is only 7.5 km/s, a fraction of that of direct fusion
+temperature of the heat exchanger leading to low specific
+fueled (D–3He) aneutronic fusion engine with thrust
+augmentation (i.e. the DFD) can be seen in Table 2, where
+with or without magnetic fields, require a separate
+described in [12] and [11]. D–3He fusion without thrust
+augmentation supplies too little thrust, making it imprac-
+slows down the fusion products and raises the thrust to a
+Minimal neutron production is attractive for space
+propulsion because it reduces the required shielding as
+use of D–3He increases the fraction of power available for
+neutrons produced and completely eliminates the need
+precisely D-T. The p–11B aneutronic reaction, though it
+produces the fewest neutrons of any fusion fuel mixture
+could be produced and because stronger magnetic fields
+and higher plasma temperatures would be required. Thus,
+D–3He is the most promising fuel mixture and is the only
+The D–3He plasma admits both D–3He and deuterium–
+D þ D-3Heð0:82 MeVÞ þnð2:45 MeVÞ
+particular fusion product. The D–3He reaction provides
+a higher power density than the D–D reactions, and both
+control of the exhaust. For a thermal plasma with equal
+carried by neutrons from the D–D reaction, f p, is 1/3, from
+which it is difficult to extract useful thrust. If the tritium
+undesired neutron channel. To reduce this problematic
+would also decrease the power density, if the magnetic
+and less stable. The even-parity rotating magnetic field
+(RMFe), see [10] and selected by [38], has been shown to
+larger FRC as well. However, increasing the FRC size to the
+instabilities. We selected the odd-parity RMF
+(RMFo),
+radiation losses) and the magnetic field capabilities of
+current high-temperature superconductors, incorporating
+Fig. 1. Power balance in an aneutronic fusion propulsion system. An RF generator heats the plasma, generating the fusion reaction, which releases
+Bremsstrahlung, synchrotron, and neutron radiation. The neutrons are absorbed by the shielding and the X-rays, by the helium blanket. Heat is converted
+through a Stirling Cycle engine, where electrical power is recycled back into the craft. Coolant in high-temperature superconducting (HTS) coils absorbs
+some heat. Waste heat from the HTS coils and the thermal power conversion subsystem is rejected to space through radiators.
+modeling was performed to reduce neutron wall load.
+and 3He. For the selected magnetic field, ca. 5 T, a range of
+ments, with values of 100 keV and 70 keV being typical.
+generated a record maximum of 10.7 MW, JET produced
+16.1 MW, with a Q (cid:1) 0:6, and JT-60 achieved a Q Z 1:25
+and a record ion temperature of 45 keV (where Q is the
+Our confidence in the DFD is furthered by the fact that it is
+Many physics challenges remain before the RMFo-
+heated FRC can be developed into a practical reactor. The
+fusion-relevant temperatures must be validated. Substan-
+energy confinement time in their FRC, [9] and [56].1 Our
+the classical. In 2007, an RMFo-heated FRC, [22], achieved
+[28,33,23] indicate that RMFo will be able to heat plasma
+electrons and ions to fusion relevant temperatures. These
+higher plasma temperatures and densities and with burn-
+3.2. The RMFo method
+As stated above, for an FRC reactor to burn its D–3He fuel
+values of around 100 keV and 70 keV, respectively. If ener-
+temperatures, the plasma would have to be over 4 m in
+RMFo allows the diameter of the plasma to be reduced to
+a half meter and produces 1 MW.
+In RMFo heating, the maximum ion energy is propor-
+tional to the RMFo frequency, ωRMF. Due to a constraint set
+by the RMF-generated current and the FRC's magnetic field
+strength, ωRMF decreases as the product of a plasma
+density times the square of the plasma radius. Thus, too
+large or dense an FRC is not well heated. An optimum FRC
+for RMFo heating of ions to 100 keV and above has a radius
+in the range 20–30 cm. This places a lower limit on the
+Ion heating by RMFo is highest near the O-point null
+periodically accelerates ions into betatron orbits and then
+RMFo's ωRMF and amplitude properly allows ions to be
+D–3He fusion cross-section and then returned to the bulk
+temperature. This is a conservative process and satisfies
+that increases the fusion rate and decreases neutron
+In a D–3He plasma, the trajectories of RMFo-accelerated
+ions are predicted to form two betatron orbit streams close
+to the FRC's O-point null
+between them. The transverse temperature of each beam
+D–D neutron production rate falls and f p is reduced, [20].
+of 70 keV and the RMFo pumps the 3He up by 100 keV
+50 keV, Fig. 2,
+peaked betatron orbits, low transverse beam temperature,
+to decrease f p below 0.2% for an RMFo-heated D–3He-
+fueled FRC.
+Add to these effects that D–3He fusion produces neu-
+sets of collision partners. At ion energies below 250 keV, the D–3He fu-
+ratio (p 1=radius) for a small FRC compared to a large
+tokamak (20 cm vs. 10 m) and an additional 10,000-fold
+reduction of neutron power load on the wall is obtained.
+Overall, the shielding requirements for this type of small,
+The RMFo method,
+in addition to reducing neutron
+can be used to extract energy from the 3.6 MeV alphas and
+14.7 MeV protons produced by D–3He fusion. Depending
+Inclusion of Coulomb scattering or RMF chirping is
+RMFo antenna. Thus, RMFo could provide both a high-
+ion energy for the D–3He collision near the peak of its
+the Princeton FRC-2 (PFRC-2) and Magnetic Nozzle Experi-
+The PFRC-2 machine is shown in Fig. 3. Based on 1/5
+classical confinement time, a plasma radius of 25 cm is
+produce 1 MW of
+criteria set by the RMFo heating method. Table 3 displays
+all the design and calculated parameters for the 1 MW
+fusion power could increase up to 20 MW. The plasma is
+shaped by the magnetic field: a separatrix divides the
+Field-shaping coils that are magnetic flux conservers
+this magnetic field geometry. The chamber wall is com-
+number of field-shaping coils (white) that act as flux conservers, posi-
+One megawatt fusion engine. Temperatures are approximations for a
+the RMFo. The majority of the available electrical power is returned to the
+RMFo to heat the plasma. The vacuum vessel is sized based on the
+Heat rejection mass is based on aluminum radiators from [29] and
+Beta
+Axial magnetic field
+Ion temperature
+e (cid:4) temperature
+Deuterium number density
+3He number density
+e (cid:4) number density
+Shielding mass
+RMFo power
+Neutron power
+0.25 m
+5.0 m
+4.7 T
+100.0 keV
+30.0 keV
+5.3e þ 13 cm (cid:4) 3
+1.6e þ 14 cm (cid:4) 3
+3.7e þ 14 cm (cid:4) 3
+800 kg
+260 kg
+1050 kg
+385 kg
+1475 kg
+6170 kg
+2.14 MW
+1 MW
+490 kW
+992 kW
+2.59 kW
+563 kW
+1.25 MW
+1.13 MW
+energy from the Bremsstrahlung radiation, neutron shield-
+3He needed for such a mission ( (cid:1) 0:5 kg, see Table 4) is
+injected into the FRC (probably as 10–20 keV neutral
+beams [14]), and heated to fusion temperatures. Deuter-
+exhausting the ash (including any of the undesirable T
+formed) and heating the SOL, increasing the thrust.
+Due to its high energy density, chemical combustion
+Fig. 4. Fusion propulsion system layout. The magnetic field is shaped by field-shaping coils and axial field coils to form an ellipsoidal closed-field region
+propellant flows out the nozzle coil and forms an exhaust plume, with ion energy Ei.
+Fig. 5. One megawatt reactor cross-section. The outer edge of the magnetic fields (B) in the core plasma are surrounded by the SOL and a thin vacuum
+layer. Neutron shielding and the heat exchanger system protect the magnet coils, vacuum vessel, and RMFo antenna from radiation damage.
+Specific power
+Thrust
+Exhaust velocity
+6200 kg
+12,370 kg
+353 kg
+0.53 kg
+1.76 kg/kWe
+0.03 kg/kg
+0.18 kW/kg
+40 N
+56.5 km/s
+plasma, energizes the superconducting coils, and heats the
+plasma through the RMFo system. The heat engine and
+3.6. RMFo heating
+The RMFo heating system generates RF power propor-
+
+==== 1986328.pdf ====
+vehicle and an electric Titan science aircraft. A Direct Fusion Drive (DFD) propulsive engine could bring a
+Field-Reversed Configuration (PFRC) concept which combines an FRC with a magnetic mirror. PFRC uses a
+novel radio-frequency plasma heating system and deuterium-helium-3 fuel. A lower temperature plasma flows
+around the closed-field FRC region removing the fusion products. In the DFD propulsive configuration, this
+secondary flow permits direct and variable thrust and exhaust velocity. The science aircraft would do a powered
+entry to Titan and then have the capability to fly anywhere on the moon at subsonic speeds. The DFD-powered
+less than 2.6 years with a 2 MW power plant for a payload mass of
+1000 kg. This paper extends that work to include as a payload a Titan
+does not use any thrust. The fusion-propelled transfer vehicle stays in
+Titan does not have its own magnetic field, but it does orbit within
+spacecraft is about 450 kg and the power produced by the MMRTG
+is about 70 W. [6].
+neutron spectrometer
+Measure atmospheric temperature, pressure, wind speed and direction,
+methane humidity, hydrogen partial pressure, crustal seismicity,
+electric field, surface dielectric properties, surface temperature, and
+FRC
+DFD
+PFRC
+RMF
+Rotating Magnetic Field
+maximum power requirement of 842 W and a mass of 100 kg while
+the balloon has a power requirement of 1.8 kW and mass of 25 kg,
+both of which are only fractions of the available power (500 kW) and
+mass (1000 kg) available for science missions on the Titan Aircraft.
+moon interactions, and permanent or induced magnetic fields. Different
+JIMO also planned to use 1000 W for its communication system [12].
+demand of 25269 W.
+duced magnetic fields for missions to icy moons and other bodies in
+The Princeton Field-Reversed Configuration (PFRC) and Direct Fu-
+research & development funds, while work on the PFRC experiment was
+and one from ARPA-E to further develop the DFD concept. Prior pa-
+on the PFRC reactor concept has recently been published [25] which
+and the commercialization potential of a PFRC reactor. We will provide
+Velocity changes using the continuous thrust plan from [1].
+Thrust power
+2.4 MW
+1.4 MW
+0.1 MW
+2531 kg
+3500 kg
+1.15 MW
+0.5 MW
+1006 kg
+2000 kg
+4.1. DFD summary
+The PFRC employs a radio frequency (RF) plasma heating method,
+odd-parity rotating magnetic field (RMF) heating, first theorized in
+2000 [22] and demonstrated in the PFRC-1 experiment in 2006 [23].
+Experiments are ongoing with the second-generation machine, PFRC-
+PFRC-2 have surpassed theoretical predictions, with minority electron
+populations reaching 500 eV and pulse lengths of 300 ms. Experiments
+to measure ion heating with input power up to 200 kW are ongoing.
+When scaled up to achieve fusion parameters, PFRC would result in
+a 4–8 m long, 1.5 m diameter reactor producing 1 to 10 MW. This
+concepts, producing very low levels of neutrons. Neutrons would be at
+2.45 MeV, much lower energy than D-T reaction neutrons, and would
+only be produced by D-D side reactions. Neutrons cannot be directed
+and therefore do not contribute to thrust.
+Fig. 6. A plasma shot in the PFRC-2 experiment at PPPL.
+system, for energizing the superconducting coils, spinning up the Bray-
+right corner [26]. The fusion vacuum vessel is orange. The RMF system
+is depicted above the vacuum vessel. Coil refrigeration is on the right.
+Attempts have been made to heat FRC plasmas with RF before,
+but generally with a picture-frame antenna that resulted in a near-FRC
+plasma but with open magnetic field lines. We call this even-parity
+heating due to the symmetry of the induced magnetic field. Open
+In contrast, each of the four PFRC antenna sections is two joined
+side of PFRC-2 in Fig. 6. This results in so-called odd-parity heating
+– the magnetic field on one side of each figure-8 is in the opposite
+direction as the other side – and closed field lines in the generated FRC.
+of the currents in the RF antenna results in a rotating magnetic field,
+with about 0.1%–1% of the strength of the axial magnetic field.
+Fig. 7. Block diagram of the DFD engine.
+The PFRC is specifically designed to have ultra-low radioactivity.
+pressure to magnetic pressure (𝛽), the PFRC should achieve the high
+temperatures necessary to burn helium-3 (3He) and deuterium (D) in a
+D + 3He → 4He (3.6 MeV) + p (14.7 MeV)
+D + D → T (1.01 MeV) + H (3.02 MeV)
+D + D → 3He (0.82 MeV) + n (2.45 MeV)
+D + T → 4He (3.5 MeV) + n (14.1 MeV)
+Simply burning 3He-D at high temperatures in a large FRC reactor could
+result in an increase in neutrons due to the above D-D and D-T side
+reactions. PFRC has three features that greatly reduce the number and
+impact of the neutrons from this baseline: one, the small size of the
+reactor (∼25 cm plasma radius) results in a favorable ratio of surface
+upwards to as much as 3:1, sacrificing some power density for lower
+neutron production; three, the reactor is designed to rapidly eliminate
+reactions from occurring. This means that the only neutrons produced
+are those with an energy of 2.45 MeV.
+the so-called FRC 𝑠-parameter, [27] which scales with the ratio of
+burn-up time for energetic tritons to fuse is about 20 s, while the
+than 0.01 s [21,28]. The same process occurs for the other fusion ash
+products, which are all effectively exhausted.
+The PFRC is well suited for use as space propulsion for two rea-
+reduction of neutron production compared to other D-3He approaches,
+end of the PFRC is configured with a magnetic nozzle, the reactor
+becomes the Direct Fusion Drive (DFD). Adding additional propellant
+to the external flow results in a moderate thrust, and high specific
+impulse exhaust stream. This process is called thrust augmentation. The
+low neutron production is crucial to minimizing the shielding required
+while in transit, maximizing the engine-specific power. The maximum
+Fig. 8. Maximum DFD thrust as a function of jet power.
+thrust for a given power, based on UEDGE [29] is given in Fig. 8. This
+leads to a practical lower exhaust velocity limit of 70 km/s assuming a
+0.4 power to thrust conversion efficiency.
+There are several factors which could allow PFRCs to be smaller
+in Ref. [25]. These include: (1) FRCs with zero toroidal magnetic field
+that FRCs should have 10 times better energy confinement given the
+same magnetic field and plasma temperature. (2) Turbulence-enhanced
+transport would be mitigated in a PFRC-type reactor due to the larger
+by 3x due to the 10x increase in temperature of a PFRC-type reac-
+tor compared to a D-T tokamak. The DFD would make use of these
+potential benefits of the PFRC.
+The features of the proposed DFD including its compactness and
+linear form, and that it will be limited to 1 to about 10 MW, make
+the DFD well-suited to a variety of space missions.
+4.2. PFRC-2 experimental results
+ARPA-E funding was provided to upgrade the PFRC-2, required for
+upgrades involve the implementation of four co-axial coils to increase
+magnetic field and modification of RF amplifiers, transmission lines,
+and tank circuits to decrease RMF frequency.
+The target operating parameters are 0.1 𝑇 central magnetic field,
+200 kW forward RF power, and an operating frequency below 2 MHz.
+The PFRC-2 has been operating at 1.8 MHz since November, 2022 and
+which will be utilized in 2023. Its energy range is 200 to 2000 eV with
+tral density in PFRC-2 using a two-photon-absorption laser-induced
+analysis for electron temperature measurements [34,35], a rigorous
+temperature measurements in warm hydrogen plasma [37]. The TALIF
+diagnostic achieved temporal and spatial resolutions of 10 μs and 1 mm
+respectively, and a minimum detectable density less than 1010 cm−3.
+Knowledge of the neutral density is critical to assessing and controlling
+The path to transition from PFRC-2 to a pilot plant reactor PFRC
+involves the construction and testing of the next iteration, PFRC-3, a
+device with ten times stronger field (∼1 T) using a low-temperature
+superconductors, operating with a larger plasma radius (16 cm), higher
+density (∼1014/cc) with a goal of reaching fusion-relevant temperatures
+(∼10 keV temperatures). This would be followed by PFRC-4, which
+would function as a prototype reactor power plant using D-3He (∼100
+keV ion temperature goal) and would test the complete power conver-
+sion system. Further details on the proposed path from PFRC-2 to a
+reactor PFRC can be found in Ref. [25].
+also the shielding and radiators. The heating and conversion systems
+the radiators. 100 kW is available for electric power use in spacecraft.
+require a field of about 15 to 20 T.
+flows around the fusion region. This is expelled to produce thrust, or
+4.4. DFD engine
+A reactor configured as a rocket engine is shown in Fig. 16. A
+100 m/s
+500 m
+constant electric power of up to 1MW coming from the fusion reactor
+2000 kg for all stages of flight. The mass of the engine was assumed to
+be a constant 1000 kg.
+Thermal conduction takes place when a temperature gradient exists,
+the temperature gradient in the gas at the wall [38]. Thermal radiation
+10,000 K. If the gas temperature is high enough, viscous dissipation
+always remain constant at 2000 kg due to the fusion reactor’s constant
+lent to the ‘‘thrust-to-weight’’ term for a jet engine aircraft [39]. Since
+1.352 m∕s2
+quired takeoff field length of 500 m, kinematic equations were used
+The stall speed adds a vertical line to the thrust loading vs wing loading
+This is the vertical line on the thrust-to-weight vs. wing loading graph,
+The thrust-to-weight and power-to-weight vs. wing loading feasi-
+First, the thrust-to-weight ratios were found. The thrust-to-weight ratio
+at cruise represents the amount of thrust needed to maintain the cruise
+velocity of 100 m/s. The equation for thrust loading during cruise is
+The thrust-to-weight ratio during takeoff is dependent on the thrust-to-
+Finally, the thrust-to-weight ratio during climb is given by [39]:
+The relation between the thrust-to-weight ratio and the power-to-
+section, and hp is the horsepower of the aircraft. The thrust-to-weight
+of the traditional thrust-to-weight ratio specifically for propeller driven
+The final thrust-to-weight curve is shown below in Fig. 18.
+is much less than the assumed L/D in the thrust-to-weight vs. wing
+pation, a chemically reacting boundary layer, low-density flow, and
+high-temperature effects [38]. Using one of three surface inclination
+shock-expansion method, one can approximately solve for the pressure
+and decreases the area of high pressure ahead of the wing, therefore
+Fig. 18. Thrust-to-Weight vs. Wing Loading MATLAB Plot.
+estimate of 𝐿∕𝐷 in the thrust to wing loading graph during cruise,
+the mechanical fan reduces thrust losses due to propeller tip speeds
+Given the fusion power reactor can output up to 1 MW of total power,
+each fan theoretically has up to 166 kW of power available to it.
+However, it was determined that only 28 kW of power was needed to
+of thrust can be determined. The coefficient of power for the fan is
+The coefficient of thrust is found with the formula [1]:
+The coefficient of thrust was found to be 0.996.
+Finally, the thrust needed for each fan is found through the formula
+fans. The thrust is 117.4 N.
+Fig. 25. Radial coordinates showing drag, lift, and thrust. 𝑢 is the unit velocity vector.
+2000 kg
+13.56 m
+12.8 m
+160 kW
+500 m
+Fig. 28. Optimal landing. Thrust is only needed at the very end. This assumes a
+𝑢 is the velocity unit vector, 𝑇 is thrust, and 𝑠 is the aerodynamic
+velocity and 𝑣𝑡 is the tangential velocity. The thrust vector is aligned
+with 𝑢 when 𝛼 = 0. The thrust vector is
+reach the Titan surface with zero velocity. Thrust is only required at
+available on current robotic spacecraft. The work on the DFD is in
+
+==== 2108.01689v1.pdf ====
+never before attained and opens new possibilities to humankind. The Direct Fusion Drive (DFD) is
+the D − 3He-fueled, aneutronic, thermonuclear fusion propulsion system that is under development
+It is considered and analyzed the Earth – Mars mission using the DFD. It is shown that one-way
+are given based on the characteristics of a 2 MW class DFD engine. This capability results in a total
+trip duration of 2.6 years for the thrust–coast–thrust proﬁle and less than 2 years for the continuous
+thrust proﬁle [3]. Using the same 2 MW class DFD engine one can reach some trans-Neptunian
+mass of at least 1500 kg, so that it would enable all kind of missions, from scientiﬁc observation to
+in-situ operations [4]. We consider for each mission a Thrust-Coast-Thrust proﬁle. For this reason,
+Finally we conclude that a spacecraft propelled by DFD will open unprecedented possibilities to
+of magnitude more energy density and fusible elements
+14], with its support arising from the high energy density
+gawatt in power and requiring a meter or more of neutron
+shielding. Such large and massive devices could not be
+cost fusion reactor assembly [19]. In early 1930s it was
+value of 19436 s and thrust of 3.8 kN [20]. Project Icarus
+D-3He plasma known as the D-3He-fueled Direct Fusion
+Drive (DFD) [1].
+by the realization of the DFD. The work is organized in
+of the DFD engine, its main characteristics, fuel choice,
+and the thrust model. Section 3 is devoted to consider-
+DFD concept suits several kind of space destinations,
+The Princeton ﬁeld reversed conﬁguration (PFRC-2)
+creases the plasma temperature in order to achieve the
+in a ﬁeld reversed conﬁguration (FRC) plasma [28, 29].
+FRC plasma maintaining its closed ﬁeld line structure.
+2006 (PFRC-1) [31]. This is a crucial point because the
+The PFRC-2 concept employs a unique radio frequency
+ing, which increases the plasma temperature in order to
+fusion process in a ﬁeld reversed conﬁguration (FRC)
+plasma [28, 29]. The FRC is a particular magnetic ﬁeld
+DFD, is the high temperature, moderate density plasma
+of neutrons, the D–T fuel is not the best choice for the
+DFD. In fact, an aneutronic fuel, such as the mixture of
+2He plasma is related to the neutrons production prob-
+lem. If neutrons are produced from the fusion reactions,
+a spacecraft by the neutrons’ emission, which should be
+shielded to protect the spacecraft and crew. Neutrons are
+Therefore, it is essential to reduce the neutron ﬂuxes in
+an increase of radiation shielding masses.
+Depending on plasma temperature the ignition of D–3
+following aneutronic and neutron emitted primary reac-
+(Q = 18.34 MeV), (1)
+(Q = 3.25 MeV),
+(Q = 4.04 MeV);
+(Q = 12.86 MeV), (7)
+2He are aneutronic,
+with the exception of the process (5), where neutrons
+with the energy of 2.45 MeV are produced. The D–D
+FIG. 1: Schematic of a DFD with its simple linear conﬁgura-
+tion and directed exhaust stream. A propellant is added to
+est is for the process (5), where 2.45 MeV neutrons are
+desirable neutrons are emitted. Undesired neutron con-
+contamination by the neutron emission in these processes
+sions based on the DFD [27, 39]. The fuel consumption
+of a 2-MW class DFD engine, the mass of 3
+about 0.27 kg. This fuel mass value, on a spacecraft of
+The schematic of a DFD is shown in Fig. 1. The heated
+mal energy into kinetic energy, thus providing thrust to
+model of the thrust and speciﬁc impulse of the engine
+engine, they would have a velocity of 25, 000 km/s pro-
+ducing negligible thrust [27], but interacting with cool
+ing exit velocity is about 105 m/s, generating a thrust of
+about 2.5 to 5 N per MW of fusion power [1, 27], and
+from 5 to 10 N of thrust per MW of thrust power, with a
+speciﬁc impulse of about 10, 000 s. The estimated range
+for the speciﬁc power is between 0.75 kW/kg and 1.25
+DFD can be fully scaled in conﬁguration and reach the
+imum estimated value of 0.75 kW/kg of speciﬁc power,
+leads to an engine mass of 2660 kg.
+Thrust, N 4
+Thrust Power, MW 0.46
+Mars) using DFD in detail and results are reported in
+sion we use the parameters for the DFD thruster given in
+Table I. As it was shown Ref. [40], a thruster with such
+ate in a continuous thrust mode. A study of an Earth-
+α = 1.25 kg/kW; overall eﬃciency η = 0.56; tankage fac-
+of propellant, mt is mass of the thruster, mass, mtank is mass
+in early 2026, following a Mars gravity assist in 2023. A
+mission to the same asteroid using the DFD thruster can
+planetary trajectory without thrust. The Earth depar-
+and takes between 25 and 71 days depending on the DFD
+mission: Thrust-Coast-Thrust (T-C-T) and Continuous
+Thrust (CT) proﬁles. The T-C-T proﬁle mission is di-
+inputs for this rendezvous problem are the DFD engine
+FIG. 4: Thrust-Coast-Thrust proﬁle for the Titan mission. It
+solid curves indicate that the spacecraft thrust is active, and
+thrust. Figure from Ref. [3].
+where the thrust vector is aligned with the velocity of
+ﬁrst ﬁnite burn where the thrust vector is directed along
+phasing maneuver where thrust components along anti-
+varying thrust direction and duration with a negligible
+engine is always on, generating a constant thrust during
+time for the thrust direction inversion in order to reach
+FIG. 7: Planar trajectory for the continuous thrust proﬁle
+direction of the thrust (switch time). The trajectory follows
+It is worth noticing that in the CT case, the DFD is
+spacecraft mass is decreased, the DFD can reach the re-
+payload mass of about 1000 kg is obtained through an
+TABLE III: Comparison between the thrust-cost-thrust proﬁle, the continuous thrust proﬁle, and Cassini-Huygens missions.
+signiﬁcantly, delivering 1000 kg in the fastest solution or
+1800 kg in the T-C-T proﬁle mission. For comparison,
+kg, including the Huygens lander (349 kg) [50]. Another
+assumption that the DFD will be capable of turning oﬀ
+and on the thrust generation. This is an important hy-
+thrust during the coasting phase, which is in theory pos-
+fuel consumption for the entire mission is ≈ 0.112 kg.
+is based on the DFD ability to turn oﬀ and on the thrust
+around 0.282 kg.
+at least of 1500 kg, so that it would enable all kinds
+fusion-based DFD. For trajectories design for exploration
+of trans-Neptunian objects it is considered a 2 MW DFD
+and assume that thrust and speciﬁc impulse are constant.
+1 MW, with the resulting performance of 8 N of thrust
+and approximately 104 s of speciﬁc impulse. The tra-
+jectory proﬁle chosen is the Thrust-Coast-Thrust proﬁle.
+is to bring at least 1500 kg of payload at destination in
+kW/kg DFD results in approximately 2000 kg of engine,
+thereby a total dry mass of 3500 kg. At this point, the
+ﬁrst estimation of propellant needed is 3988 kg, for a to-
+tal launch mass of 7488 kg.
+requires an increase in the out of plane thrust compo-
+is worth noticing that the three sets of results are for scenarios with the same initial mass of 7488 kg. The ﬁnal velocity for
+propellant mass not used. The ∆V in the mission summary is the sum of that of all thrust phases, including the spiral phase.
+thereby there is a need to increase the thrust days. A
+trade-oﬀ between thrust vector direction and thrust days
+sion the ∆V is about 10 km/s more demanding: this is
+tance at which the thrust is turned oﬀ, while the distance at
+71.50 km/s
+3595 kg
+Final velocity 77.41 km/s (16.33 AU/yr)
+76.55 km/s
+79.05 km/s
+3350 kg
+4150 kg
+pelled by the DFD will enable an entirely new class of
+rocket engine based on the D-3He technology will allow
+using the DFD, given the time of ﬂight and the launch
+on-board electrical power. The DFD would be a true
+thrusters [2].
+The spacecraft with DFD based on aneutronic D-3He
+sion using a 2-MW class DFD engine is not only feasible,
+in the pfrc-2 device: Motivation, goals and methods, in:
+and Future Flight Propulsion - Modeling the Thrust of
+of the T(t,2n)4He neutron spectrum at low reactant en-
+ergies from inertial conﬁnement implosions, Phys. Rev.
+t+t neutron spectrum using the national ignition facil-
+
+==== AIAA_DFD-NTP_6.2020-4080.pdf ====
+The Direct Fusion Drive (DFD) is a nuclear fusion engine concept that produces both thrust and electric power. It
+to fusion temperatures. The engine uses deuterium and helium-3 as fuel and hydrogen that is heated in the scrape-off
+layer for thrust augmentation. In this way variable exhaust velocity and thrust is obtained. The exhaust velocity for a
+given power is limited by the physics of the engine so that low exhaust velocities (< 50 km/s), and high thrusts, cannot
+be achieved. Adding a nuclear thermal engine provides an improved mix of thrust and high exhaust velocity allowing
+thermal engine saves time and reduces the crew’s exposure to radiation. The NTP also provides a high thrust abort
+PFRC Princeton Field-Reversed Conﬁguration
+RMF Rotating Magnetic Field
+FRC Field Reversed Conﬁguration
+DFD Direct Fusion Drive
+Direct Fusion Drive (DFD) is a nuclear fusion engine
+concept that produces both thrust and electric power.
+It employs a ﬁeld reversed conﬁguration (FRC) with
+heat the plasma to fusion temperatures. Fusion energy
+increasing the thrust. Figure 1 shows an artist’s concep-
+nuclear thermal engine that is used whenever high thrust
+rival spiral. The combination of a high thrust, low spe-
+ciﬁc impulsive engine with a low thrust, high speciﬁc
+with the Orion. It has six 11.5 MW engines. This pro-
+Figure 1: Artist’s conception of the DFD rocket.
+the harmful effects of muscle atrophy from long-term
+nations. A DFD-powered transfer stage could get astro-
+To demonstrate the potential of DFD technology with
+house the crew [2]. Previous work demonstrated DFD’s
+sions [6]. In this analysis, the DFD is augmented with a
+Figure 2: DFD transfer vehicle at Mars.
+PFRC experiment was funded at the Princeton Plasma
+to further development the DFD concept. Prior papers
+In contrast, each of the four PFRC antenna sections are
+ible on the side of PFRC-2 in Figure 3. This results
+FRC. Closed ﬁeld lines keep the plasma trapped as it is
+result in a rotating magnetic ﬁeld, RMF, with about 0.1-
+PFRC core. Cool plasma ﬂows along the open ﬁeld-
+The PFRC is speciﬁcally designed to have ultra-low
+a high β, the ratio of magnetic ﬁeld to plasma pressure,
+no damaging neutrons, although some will be generated
+D + 3He → 4He (3.6 MeV) + p (14.7 MeV) (1)
+D + D → T (1.01 MeV) + H (3.02 MeV)
+D + D → 3He (0.82 MeV) + n (2.45 MeV) (3)
+D + T → 4He (3.5 MeV) + n (14.1 MeV) (4)
+Simply burning 3He-D at high temperatures in a large
+FRC reactor could actually result in an increase in neu-
+trons due to the above side reactions. PFRC has three
+of the neutrons from this baseline: one, the small size
+of the reactor (∼25 cm plasma radius) results in a fa-
+to as much as 3:1, sacriﬁcing some power density for
+lower neutron production; three, the reactor is designed
+curring. This means that the only neutrons produced are
+those with energy of 2.45 MeV.
+Figure 3: A plasma shot in the PFRC-2 experi-
+3.1 DFD Summary
+(PFRC) employs a unique radio frequency (RF) plasma
+rized in 2000 [10] and demonstrated in the 4 cm ra-
+dius PFRC-1 experiment in 2006 [11]. Experiments are
+ongoing with the second-generation machine, PFRC-2,
+which has a coil inner radius of 8 cm (Figure 3). Results
+from experimental studies of electron heating in PFRC-
+electron populations reaching 500 eV with pulse lengths
+put power up to 200 kW are ongoing. When scaled up
+to achieve fusion parameters, PFRC would result in a 4-
+8 m long, 1.5 m diameter reactor producing 1 to 10 MW.
+damaging neutrons. A diagram of the engine is shown
+in Figure 4. The startup system, for energizing the coils
+RMF system is depicted above the vacuum vessel. Coil
+Figure 4: Block diagram of the DFD engine.
+made to heat FRC plasmas with RF before, but gener-
+FRC plasma but with open magnetic ﬁeld lines. We call
+the so-called FRC s-parameter,[14] which scales with
+and be trapped in the EARS is less than 0.01 s.[9] The
+which are all effectively exhausted.
+The PFRC is perfectly suited for use as space propul-
+size results in a tremendous reduction of neutron pro-
+duction compared to other D-3He approaches, as de-
+products. When the divertor end of the PFRC is con-
+Direct Fusion Drive (DFD). Adding additional propel-
+lant to the external ﬂow results in a moderate thrust,
+high speciﬁc impulse exhaust stream. This process is
+called thrust augmentation. The low neutron production
+is crucial to minimizing the shielding required while in
+imum thrust for a given power, based on UEDGE [15]
+haust velocity limit of 70 km/s assuming a 0.4 power to
+thrust conversion efﬁciency.
+3.2 DFD Power and Mass Breakdowns
+Figure 7 shows a power model for a 10.42 MWf DFD
+engine. The plasma length is 5.2 m. 7.48 MW exits the
+engine in the plume. 0.1 MW is available in electric-
+ity after powering the RMF heating. Bremsstrahlung
+plasma electrons; the RMF subsystem must compensate
+only a small portion of the RMF power is lost to heat
+Figure 7: Power model for the DFD engine.
+heating and conversion subsystems, but also the shield-
+ing and radiators. The heating and conversion systems
+is dominated by the radiators. 100 kW is available for
+Figure 6: Maximum DFD thrust as a function of
+The fact that DFD is so compact, has a linear form,
+and will be limited to 1 to about 10 MW, makes it well-
+Figure 8: Mass Breakdown for the DFD engine.
+maintain a central ﬁeld of 5.3 T while the mirror mag-
+nets will require a ﬁeld of about 15 to 20 T. The total
+engine mass, including radiators, is 7500 kg.
+for the thrust level required for Earth departure.
+the table, the thrust is about 7300 N, the speciﬁc impulse
+is about 875 s, and the mass is 2550 kg.
+Chamber Pressure
+310 N/cm2
+8.51 kg/s
+Chamber Temperature
+367 MW
+0,93 MW
+3.1 m
+1.2 m
+0.92 m
+1.2 m
+8580 m/s
+Thrust
+Thrust/Mass
+7297 N
+2550 kg
+2.86 N/kg
+Small NTP engine is located between the DFD en-
+gines. The shielding in the DFD engines, and the
+fuel tanks, should reduce the need for NTP shielding.
+Figure 10: DFD transport with a Small NTP en-
+gine for high thrust maneuvers..
+The large wings are the radiators. The solar panels on
+DFD has 6 engines which 3 of the solenoid dipoles fac-
+An additional coil compensates for the residual dipole
+7. DFD/NTP Mars Mission
+ure 11 compares NTP with DFD.
+DFD and NTP. The vertical lines are the limits.
+An all DFD spiral from ISS altitude is shown in Fig-
+remainder of the mission is done with the DFD engine,
+until the ﬁnal return to LEO. The exhaust velocity is
+hand. Note that constant thrust for the Earth to Mars
+burns require at least 100 kN of thrust for the departure
+and 40 kN for the return, which would require a larger
+DFD Earth Outward Spiral 5.67
+DFD Mars Inward Spiral
+DFD Mars Outward Spiral 3.27
+DFD Earth Inward Spiral
+Exhaust
+8. NTP and DFD Development Plans
+PFRC, the reactor technology in DFD, is currently
+The baseline PFRC/DFD development plan is shown in
+PFRC/DFD development plan.
+This plan assumes that PFRC-3 is funded in 2021.
+PFRC-3 would reach fusion relevant temperatures and
+pressures. The plan could be accelerated in many ways.
+Increasing the number of sites working on PFRC tech-
+nology would accelerate development. FRCs are be-
+in China is also working on a PFRC-like machine. Our
+the XE-prime which was operated at 1100 MW. The Nu-
+is compatible with the DFD timeframe.
+DFD has the potential to revolutionize Mars explo-
+ration and solar system exploration. Combining DFD
+gine, radiators and shielding are areas where mass sav-
+The mission plan can be improved. Varying the thrust
+and exhaust velocity per segment is expected to lead to
+strate ion heating using odd-parity RMF. The next step
+in DFD development will be a fully-superconducting
+atures of 5 to 10 keV, followed by a full-sized high-
+temperature fusion demonstration. At this point, a space
+followed by the ﬁrst DFD mission. Due to the simple
+geometry of DFD, we estimate that each testbed cycle
+DFD mission to launch in 15 years or sooner.
+PFRC experimental work is being conducted under
+Cohen, S., “Modular Aneutronic Fusion Engine,”
+Aneutronic Fusion Engine for an Alpha Centauri
+pact Aneutronic Fusion Engine,” International As-
+S., and Walsh, M., “Reducing Neutron Emission
+tions of a direct fusion drive FRC rocket,” Summer
+
+==== ASPW2014_Presentation.pdf ====
+ PFRC Reactor Design and Experiments
+ Variable Thrust and Specific Impulse via
+ DFD produces power AND
+thrust
+ FRC fusion reactor exhausts
+deuterium to produce thrust
+size: 1-10 MW and size of minivan
+ Low neutron radiation using 3He as
+for approx. 100 MW/year
+Princeton Field Reversed Configuration (PFRC)
+ Field Reversed Configuration (FRC)
+- Simple geometry with fewer coils
+- Plasma radius in range 20-40 cm
+- Size of 1-10 MW which is ideal for space
+ Confinement with high temperature
+superconducting coils
+ Burns aneutronic D and 3He with beta greater
+ Add H or D+ to augment thrust
+ Variable exhaust velocity
+ 50 to 20,000 km/s
+Shielding
+Gas BoxExhaust PlumeSOL Heating SectionField Shaping BoxSeparatrixClosed FieldNozzle CoilPropellantD-He3 FusionCoilsCoilFuelingRMFo Antenna Region
+PFRC Experiments at PPPL
+- Concluded PFRC-1 a, b, c in 2011
+- PFRC-2 operating now; goal is to demonstrate keV
+plasmas with pulse lengths to 0.3 s
+Rotating Magnetic Fields (RMF)
+PFRC-2 Design
+of the magnetic field mirrored
+RMF0 Antennas
+Variable Thrust and Isp
+DFD Thrust and Isp Envelope
+1 MW
+100 MW
+(ten 10MW modules)
+• The DFD design envelope
+very high exhaust velocity:
+25,000 km/s
+thrust by transfering
+Thrust Augmentation
+• H or D is used as a propellant- it flows along the magnetic field lines outside of the separatrix;
+• This  reduces  the  exhaust  velocity  of  the  fusion  products  from  25,000  km/s  to  ~50  km/s  and
+increases thrust to >20 N
+• Thrust/Isp is adjustable based on rate that gas is injected into the gas box
+• The exhaust plume is directed by a magnetic nozzle, consisting of a throat coil and nozzle coils to
+ne = 1011 cm-3
+Ti = 1 eV
+Te = 100 eV
+At z = 100 cm:
+KE (H+) ~ 2 keV
+Heat EngineShieldingRadiatorPlasmaRFGeneratorSynchBremssnSpacecraft Power BusRadiatorHTS Coil BlanketCoilRefrigeratorSpaceRFGeneratorHelium CoolantMagnetic NozzleAuxiliary Power UnitD3HeO2ElectrolysisD2OPower RecyclingRestartGas Box3He InjectorD Injector
+ Deliver 500 kg payload
+ Nine 10 MW engines
+- 14 N thrust
+- uE 12,000 km/s
+ Two 10 MW engines
+- 7.5 N thrust
+- uE 3200 km/s
+- 3He 564.7 kg
+ 1 MW engine
+- Electrical power 1.25 MW
+- Propulsion power 1.13 MW
+ Payload mass 6200 kg
+ DV 3.1 km/s
+ 40 N thrust
+ uE 56.5 km/s
+ 3He 50 g
+ D 353 kg
+ DV to asteroid 0.3 m/s
+ 10 MW engine
+ Thrust: 500 N
+ Mass flow 0.02 kg/s
+- 41000 kg propellant
+- Vary thrust level
+“Knee” at 500 N
+ Total ΔV of 50 km/s
+ 30 MW engines
+ Thrust ~ 300-400 N
+- 50 km/s and 310 days roundtrip
+Thrust
+High Thrust
+Thrust
+ DFD has the potential to enable many missions
+ G. Pajer, Y. Razin, M. Paluszek, A. H. Glasser, S. Cohn, Modular Aneutronic Fusion Engine, Space
+ Modular Aneutronic Fusion Engine for an Alpha Centauri Mission, M. Paluszek, S, Hurley, G. Pajer, S.
+ M. Buttolph, D. Stotler and S. Cohen, “Fueling Method for Small, Steady-State, Aneutronic FRC Fusion
+S. Cohen, G. Pajer, M. Paluszek and Y. Razin, “Method to Produce High Specific Impulse and Moderate Thrust
+S. Cohen, G. Pajer, M. Paluszek and Y. Razin, “Method to Reduce Neutron Production in Small Clean Fusion
+PFRC-4
+ Radiation shielding
+- Neutrons (but not too many)
+DFD-Based Space Transportation Network
+ DFD-powered
+DFD powered
+Mars MissionAsteroid DeﬂectionDFD Space StationNASA Space Launch SystemDFD Transfer VehicleDFD Transfer VehicleRobotic Missions
+
+==== Degnan_NucFus_2013_nf.pdf ====
+Abstract. Magneto-Inertial Fusion (MIF) approaches take advantage of embedded magnetic field to improve plasma
+reduces required precision in the implosion and the convergence ratio. Since 2008 [1] and since our prior refereed
+formed, translated, and captured Field Reversed Configurations (FRCs) in  magnetic  mirrors inside  metal shells or
+liners  in  preparation  for  subsequent  compression  by  liner  implosion;  (2)  imploded  a  liner  with  interior  magnetic
+mirror field, obtaining evidence for compression of a 1.36 T field to 540 T; (3) performed a full system experiment
+of FRC formation, translation, capture, and imploding liner compression operation; (4) identified by comparison of
+2D-MHD simulation and experiments factors limiting the closed- field lifetime of FRCs to about half that required
+for good liner compression of FRCs to multi-keV, 1019 ion/cm3, high energy density plasma (HEDP) conditions; and
+(5) designed and prepared hardware to increase that closed field FRC lifetime to the required amount. Those lifetime
+experiments are now underway, with the  goal of at least doubling closed-field FRC lifetimes and performing FRC
+implosions to HEDP conditions this year. These experiments have obtained imaging evidence of FRC rotation, and
+to greatly reduce the required implosion velocity and density – radius product relative to un-
+MIF that uses a Field Reversed Configuration (FRC), formed by a reversed field theta discharge,
+and its subsequent compression by an imploding metal shell or liner, which is driven by a Z-
+imploding aluminum liners with size, radial convergence, uniformity, and implosion velocity
+suitable for compressing an FRC [5], and on the use of deformable liner – electrode contacts,
+which enable the use of large electrode apertures, suitable for FRC injection [2,6]. Our
+we have reported on formation of FRC’s at the Los Alamos FRX-L facility, which have density
+~ 5 x1016 cm-3, ion + electron temperature ~ 400 eV, flux exclusion radius ~ 2 cm, and lifetimes
+experimental results adjacent to the AFRL Shiva Star capacitor bank, which is used to drive liner
+implosions [8]. We have also previously reported two dimensional magneto-hydrodynamic (2D-
+MHD) simulations of FRC formation, translation to liner interior, and FRC compression to
+multi-KeV temperatures [5, 6]. More recent progress includes performing liner implosions with
+magnetic mirror fields interior to the liner; an engineering test of the full system including mirror
+fields, FRC formation translation, and capture, with liner implosion operation; an experimental
+series to improve captured FRC lifetime by improving flux capture using RF assisted pre-
+ionization, optimizing the relative timing of the several capacitor discharges to form the FRCs,
+probe and interferometry signals in experiments on FRC formation and capture. Prior reports by
+a number of researchers suggest the general concept of using liners to compress plasmas and
+research on shorter or lower velocity liners [9-22], and implosion of a Cu-W liner with
+explosives to compress flux to 200 T [23]. Present related work includes the Sandia MagLIF
+(Magnetized Liner Implosion Fusion) effort [24]. This MagLIF effort uses open field lines, and
+solid density liners which vaporize early in the implosion, with 100 to 200 nanosecond implosion
+time. In our FRCHX effort, we use closed poloidal field lines, with much larger solid liners that
+remain solid and retain material strength through most of the implosion, which lasts about 20
+microseconds. Present related work on lower density, larger sized FRCs is being done by Tri
+control, and which uses two opposed reversed field theta discharges to merge two FRCs [25].
+The  experiment  hardware  is  shown  in  Fig.  1.  The  FRC  is  formed  using  a  reversed  field  theta
+discharge,  employing  6  capacitor  bank  discharges  to  form,  guide,  and  trap  the  FRC.  The  FRC
+formation begins with a 130 µs rise discharge establishing a ~ 0.4 T axial bias field. Cusp fields
+with 40 µs rise enhance magnetic field reconnection.
+The FRC is formed in a 50 to 100 milliTorr deuterium gas prefill or gas puff inside a 10 cm
+diameter quartz tube inside the segmented theta coil. The coil is segmented for diagnostic access.
+rise, ~ 1.5 to 2 T reverse bias axial field is applied to complete FRC formation. The theta coils
+feature a conical bore to propel the FRC into the guide and mirror regions of the apparatus. The
+guide and mirror coils are energized by a relatively slow 4.7 ms rise capacitor bank. The guide
+and mirror field inside the Al liner is formed by an array of coils downstream of (above) the
+formation region, with the mirror field inside the Al liner. This field is diffused through the liner
+implosion hardware and related structure. An example of the axial profile of this predominantly
+liner implosion hardware and related structure. The 30 cm long x 10 cm diameter x 0.11 cm thick
+liner implosion is driven by a 4.5 MJ, 12 MA, 85 kV discharge produced by the AFRL Shiva
+optical spectroscopy, neutron activation, BTI bubble, and scintillator photomultiplier tube
+to the E field implies that an FRC exterior that is not rotating at the midplane (azimuthal ion
+at midplane too, so the FRC exterior starts to rotate in the ion diamagnetic flow direction. The
+FRC interior will then rotate too due to viscous coupling. This leads to centripetal acceleration-
+passing open magnetic flux as it exits the chamber (radially, above the highest B field coil, in our
+This indicates that, in volts, only a few times the plasma temperature in electron volts is required.
+4. Experimental results on liner implosions and FRC capture
+Liner  implosion  experiments  with  an  operationally  relevant  interior  magnetic  mirror  field
+obtained  evidence  for  compression  1.36  T  field  to  540  T,  by  comparing  liner  inner  and  outer
+radiography  tubes.  The  bremsstrahlung  spot  size  is  small,  about  0.1  cm,  based  on  empirical
+image  through  6  cm  of  polyethylene  for  both  fragment  shielding  and  structural  mounting  of
+magnetic mirror field coils. The field of view was limited by the magnetic mirror field coils to
+cm thick Al outer conductor for the liner implosion discharge. This slotted feature is necessary to
+mirror coils.
+A  full  engineering  systems  test  which  exercised  the  FRC  formation  discharges  and  liner
+implosion  was  successful  in  the  pulsed  power  operations  sense,  but  the  signatures  of  plasma
+compression  were  weak,  which  was  expected  because  captured  closed  magnetic  field  FRC
+liner  implosion  discharge  and  FRC  reversed  field  formation  discharge).  A  subsequent
+experimental campaign, using internal magnetic probes in the liner-mirror region, has confirmed
+FRC  capture,  but  with  insufficient  closed  field  lifetime  to  support  compression.  We  are  now
+tube above and below the formation region,  appears to result better flux capture and larger FRC
+exclusion radius. These measures also include using charged rings above the liner/mirror region
+to control end shorting as a means to reduce or stop life-limiting FRC rotation. Use of the rings,
+are  mounted  in  grooves  in  the  inner  surface  of  nylon  rings  which  surround  the  11  cm  outer
+diameter quartz tube of the FRC formation  hardware, in  the lower and upper parts of the FRC
+connected  to  the  upper  RF  ring  electrode.  Low-amplitude,  long-duration  (250  ~  500  V,  ~  10  ms,
+range) axial electric fields (parallel to the bias magnetic field) are applied between the two rings.
+An FRC, once  formed, starts  to  rotate, as discussed in  the previous section.  Therefore, we use
+liner/upper  implosion  electrode/top  of  magnetic  trap  region.  Figs,  7,  8,  and  9  illustrate  the  gas
+puff hardware, puffed gas density vs time and position, and the fact that using gas puffing rather
+than gas prefill results in similar flux exclusion radius vs time in the FRC trapping region. The
+magnetic  mirror  well  inside  the  liner,  obtained  using  biased  rings  (but  no  RF  first  stage
+depends exclusively on plasma leakage from the FRC to  close the bias control circuit. Using a
+achieve rotation control prior to FRC decay. Fig. 11 shows 100 ns gated images, viewed axially
+without (right) a bias voltage applied to the rings. However, this is after the FRC has deteriorated
+FRC [32]. With time resolved visible spectroscopy (390-510 nm range), we observe clean
+(Stark-broadened) deuterium Balmer series lines, with trace Oxygen impurity, in the theta coil
+formation region. By the time the translating FRC reaches the capture region, we have evidence
+experiments with both fixed (static, un-imploded) and imploding aluminum liners, performed
+for materials, all three components of the magnetic fields, an energy-conserving model of the
+imploding deformable liner, and flux-based field modeling of the time-dependent poloidal fields.
+They use adaptive gridding for the FRC and a Lagrangian grid for the liner.
+See Fig. 13. The improved diagnostics of our recent static liner experiments have provided a lot
+Prior 2D-MHD simulations of FRC formation, capture, and compression [2,8], using initially
+warm FRCs (0.5 eV temperature), predict optimistic FRC flux capture, and, assuming no
+rotation, compression of such FRCs to 8 KeV ion temperature and DD neutron yields in the 1012
+seen in Fig.16, only part of the FRC was captured in the mirror fields in the static liner  ̶  some
+mass and flux escaped out the top (left hand side in picture) and the FRC split between part in
+The imploding liner experiments have the added complication of timing the main theta bank of
+the FRC relative to the main bank of the liner implosion. In order to maximize the lifetime of the
+FRC within the imploding liner, it is useful to have the liner accelerated and imploding when the
+FRC arrives, this means the compression of the mirror fields at FRC insertion by the liner must
+hence in the initial FRC affects the lifetime and the robustness of the FRC. We performed a
+and higher bias field at the time of first light. This FRC had 67% more flux after its formation
+than the FRC discussed above (1.257 milli-Weber (mW) versus 0.754 mW). The imploding liner
+captured more of this FRC (see Fig. 17) and the captured portion had more flux (0.415 mW vs
+0.346 mW), was hotter ( 273 eV vs 209 eV), and was less dense (Ni = 2.6x1016 /cc vs 3.3x1016
+/cc) than the low-RF FRC discussed previously.  These features may improve its lifetime. Its
+yield upon compression to a 5 mm liner radius was increased by a factor of 25. This simulation
+calculated a yield ~2x1010 up to that point (with more likely as compression continues), with
+temperature 4 KeV, density ~1018 ions/cc, and length ~3 cm.
+Analytic estimates of uncompressed, captured FRC DD neutron yields, based on low energy, low
+temperature cross sections and reactivities from [34], and assuming 3x1016 ions/cc density, 5 cm
+diameter, 15 cm length, and 10 µs duration, give results of ~ 103 for 0.2 KeV temperature, and
+5x104 for 0.3 KeV temperature. This is below our measurement threshold, which is ~ 106 for
+FRC capture experiments, and a few x 107 for compression experiments (due to using greater
+detector distance and blast shielding for detector survivability). Such estimates for compressed
+FRCs range from ~109 to ~1014, depending on assumed compressed density (1018 to few x 1019
+ions/cc), temperature (1 to 8 KeV), and radial compression ranges from 10 to 20, with assumed
+lower energy density FRCs, as documented in the reports of Tri-Alpha Energy [25]. Future work
+will include FRC compression and study of FRC behavior and the liner inner surface during
+effects and liner material - plasma mixing under HEDP conditions.
+[1] WURDEN, G.A, INTRATOR, T.P. et al, LA-UR-08-0796, "FRCHX Magnetized Target Fusion HEDLP
+[2] DEGNAN, J.H. et al, “Experimental and Computational Progress on Liner Implosions for Compression of
+FRCs,” Transactions on Plasma Science 36, Part 1, p. 80, Feb 2008.
+[5]  DEGNAN, J.H. et al, “Implosion of Solid Liner for Compression of Field Reversed Configuration,”
+[6] DEGNAN, J.H.et al, “Progress in Liner Implosions for Compression of FRC’s,” in Proceedings of the 200
+6 International Conference on Megagauss Magnetic Fields and Related Topics, p. 93, Ed. G. F. Kiuttu,   R. E.
+[7] ZHANG, S. Y. et al, “High density field reversed configuration plasma for magnetized target fusion,”
+[8] DEGNAN, J.H.et al, “Research on Field Reversed Configuration  (FRC) formation and their compression
+using liners,” in Proceedings of Megagauss 12 Conference (2008)
+magnetic energy sources for thermonuclear target implosion,” in Digest of Technical Papers: 8th IEEE
+[12]  FOWLER, C. M., “Intense Magnetic Fields” in Atomic Energy Research in the Life and Physical
+[13] LINHART, J. G., KNOEPFEL, H., GOURLAN, C., “Amplification of magnetic fields and heating
+[15] VELIKHOV, E. P. et al, “Generation of megagauss magnetic fields using a liner compressed by high
+pressure gas,” Sov.Phys.-Tech.Phys.18, p.274 (1973).
+[16] GOLOVIZNIN, V. et al, “Numerical simulation of dynamics of quasispherical metallic liner,” in
+“Megagauss Physics and Technology,” Second International Conference on Megagauss Magnetic Field
+[17]TURCHI, P. J. et al, “Review of the NRL Liner Implosion Program,” ibid, p.395
+[18] SHERWOOD, A. E. et al, “Results from the Los Alamos Fast Liner Experiment,” ibid, p. 391
+[19] KAREEV, Ju. A. et al, “Liner thermonuclear system with superhigh magnetic field and >1,” ibid,
+[20] ANDRIANOV, A. M. et al, “Production of megagauss magnetic fields by compression of a magnetic
+field with a metallic liner,” ibid, p. 479
+[22] CHERNYSHEV, V. K. et al, “Cylindrical liner: implosion dynamics under EMG magnetic
+pressure,” in Sixth International Conference on Megagauss Magnetic Field Generation and Related
+[23] ARMSTRONG, W. T., MORGAN, J. A., “Liner compression of magnetically confined FRC
+on Megagauss Magnetic Field Generation and related Topics, edited by C.M.Fowler, R.S.Caird, and
+[24] S. Slutz et al, “Pulsed-power driven cylindrical liner implosions of laser pre-heated fuel magnetized
+[28] RUDEN, E. L., “The FRC's n=2 rotational instability interpreted as the dominant Rayleigh-Taylor
+Fig. 1: Illustration and photo of FRC formation – capture - compression load under center of
+liner implosion Shiva Star capacitor bank. Left shows illustration of hardware design. Letters C
+through J indicate gaps in segmented single turn theta coil that allow diagnostic access for
+field lines at a times, left to right, shortly after FRC formation, during FRC translation, and
+during compression by liner implosion after FRC capture inside the liner.
+Fig.3 MHD calculations and radiography data for a liner-on-field compression experiment.
+dynamic later radiograph. Radiograph times are 21.813 and 22.797 µs after start of liner
+implosion discharge. Liner outer diameter is 10 cm in setups. Dynamic radiograph liner outer
+diameters are 3.15 cm and 3.73 cm for early and late radiographs, respectively.
+Fig. 5 Left photo shows lower of two RF ring electrodes (1.9 cm wide Cu foil on inner surface of
+nylon ring) surrounding 10 cm diameter quartz tube in FRC formation region. The two thinner
+coil. Right photo shows 1.9 cm gap in Cu foil RF ring electrode. Kapton tape over one end of foil
+liner/upper implosion electrode/top of magnetic trap region. Open field lines exit through the
+axial leads to axial magnetic probes interior to the liner, with vacuum feed-throughs from the top
+are also shown. The interior probes are used in FRC capture experiments without subsequent
+liner implosions, but not in implosion - compression experiments.
+Fig. 7 On left is shown partial illustration of FRC formation, translation, capture hardware (the
+above pulsed solenoid valve. Valve is operated with 1.0 ms, 100 V., 0.5 amp pulse, using 40
+Fig. 9 FRC exclusion radius vs time for initial gas puff operation (blue, later, larger peak)
+amplitude and FWHM for axial probe in FRC capture region. This indicates that use of gas
+Fig 10 Magnetic field signals (left) and exclusion radii (right) in the capture region, using biased
+µs/div. Vertical scales are .05 Tesla/div and 0.5 cm/div.
+of a decayed FRC remnant with (left) and without (right) biased ring rotation control. Four bright
+Fig. 12 Intensity vs wavelength in nm. Example of axial view optical spectrum of FRC
+Fig.14 Simulation (solid) vs experiment (dashed) magnetic field at experiment probe locations in
+positions are 4 cm from the load axis of symmetry.
+Fig.15 Simulation density contours for case shown in Fig 14. See Fig 13 for relation of geometry
+Fig.16 FRC in this simulation example approaches imploding liner, enters at 12 µs, splits at 14
+µs, and portion is captured at 16 µs and is subsequently compressed. Compressed density is
+~1018 ions/cc. Peak initial captured density is ~ 3x1016 ions/cc.
+field at time of first light from ionization. FRC splitting is evident at 12.7 and 14.7 µs.
+Fig. 1: Illustration and photo of FRC formation – capture - compression load under center of
+liner implosion Shiva Star capacitor bank. Left shows illustration of hardware design. Letters C
+through J indicate gaps in segmented single turn theta coil that allow diagnostic access for
+field lines at a times, left to right, shortly after FRC formation, during FRC translation, and
+during compression by liner implosion after FRC capture inside the liner.
+Fig.3 MHD calculations and radiography data for a liner-on-field compression experiment.
+Liner outer surface
+dynamic later radiograph. Radiograph times are 21.813 and 22.797 µs after start of liner
+implosion discharge. Liner outer diameter is 10 cm in setups. Dynamic radiograph liner outer
+diameters are 3.15 cm and 3.73 cm for early and late radiographs, respectively.
+Fig. 5 Left photo shows lower of two RF ring electrodes (1.9 cm wide Cu foil on inner surface of
+nylon ring) surrounding 10 cm diameter quartz tube in FRC formation region. The two thinner
+coil. Right photo shows 1.9 cm gap in Cu foil RF ring electrode. Kapton tape over one end of foil
+liner/upper implosion electrode/top of magnetic trap region. Open field lines exit through the
+axial leads to axial magnetic probes interior to the liner, with vacuum feed-throughs from the top
+are also shown. The interior probes are used in FRC capture experiments without subsequent
+liner implosions, but not in implosion - compression experiments.
+Fig. 7 On left is shown partial illustration of FRC formation, translation, capture hardware (the
+above pulsed solenoid valve. Valve is operated with 1.0 ms, 100 V., 0.5 amp pulse, using 40
+
+==== NIAC_Thomas_FusionToPluto_PhaseI-distrib.pdf ====
+Configuration (PFRC) fusion reactor under development at the Princeton Plasma Physics
+Laboratory. The truly game-changing levels of thrust and power in a modestly sized package
+During this Phase I effort, we made great strides in modeling the engine efficiency, thrust, and
+reactor’s outer stratum, its scrape-off-layer (SOL), we estimate achieving 2.5 to 5 N of thrust for
+each megawatt of fusion power, reaching a specific impulse, Isp, of about 10,000 s. Supporting
+Our point solution for the Pluto mission now delivers 1000 kg of payload to Pluto orbit in 3.75
+years using 7.5 N constant thrust. This could potentially be achieved with a single engine. The
+gimbal that allows it to track the orbiter, which beams 30 to 50 kW of power using a 1080 nm
+Our mass modeling investigations revealed that if current high-temperature superconductors are
+utilized at liquid nitrogen temperatures, they drive the mass of the engine, partly because of the
+shielding required to maintain their critical temperature. Second generation materials are thinner
+future “high-temperature” superconductors at a moderately low temperature to dramatically
+reduce the amount of shielding required. At the same time, a first-generation space engine may
+require low-temperature superconductors, which are higher TRL and have been designed for
+space coils before (AMS-02 experiment for the ISS).
+Princeton Field-Reversed Configuration (PFRC) Reactor
+3.1.4  Radiators
+3.1.5  Superconducting Coils
+Shielding Design
+Thrust Augmentation
+Appendix A. PFRC Technical Description
+PFRC Overview
+PFRC Fusion Reactions
+A.4  RMF Heating Method
+A.5  Reduction of Neutrons
+A.7  Thrust Augmentation
+PFRC-2: Prove ion heating method
+PFRC-3A: Achieve thermonuclear parameters
+PFRC-3B: Demonstrate low-neutron-production fusion and ash- and energy-removal methods
+PFRC Summary
+Figure 1. Artistic rendering of the DFD engine with an interior cutout to show detail of the coils. .............8
+Figure 2. DFD System Components. Our Phase I focused on analysis of the components shaded in
+Figure 3. PFRC-2 in operation. This photo captures a pulse; the plasma is white inside a Lexan
+Figure 4. X-ray spectrum from a recent PFRC-2 RMF run. The tail electron temperature reached over
+500 eV and the bulk temperature over 300 eV. [Courtsey C. Swanson and P. Jandovitz] .....11
+Figure 11. Proposed Class E Amplifier RMF Drive Architecture ...............................................................22
+Figure 12 Fusion Solenoid with Ellipsoidal Tapering Coils. The 7 T field strength is at the center of
+Figure 13. Magnetic Field Shape with Ellipsoidal Solenoid .......................................................................25
+Figure 14. Coil Radii and Currents for Ellipsoidal Solenoid .......................................................................26
+Figure 15. 10-degree segment ellipsoidal FRC reactor model. The plasma ellipsoid has a 25-cm
+midplane radius. The B4C shielding is cylindrical along the length. The ends of the
+axial field coils are shown as well as three RMFo antenna segments. ...................................27
+Figure 16. DPA versus shield thickness for the HTS (YBCO) coils and RF antennae. ..............................28
+Figure 17. Thrust Data (N) from UEDGE Simulations of SOL Input Power (MW) and Gas Flow Rate
+Figure 18. Thrust Model verses UEDGE Simulation Data ..........................................................................30
+Figure 19. Thrust Performance for a 1 MW Power Input ............................................................................31
+Figure 20. Thrust Performance (N) for a 4 MW Power Input. Mass Flow is in g/s, Isp in seconds. ..........31
+Figure 21. UEDGE Thrust Efficiency from Input Power ............................................................................32
+Figure 22. Exhaust Velocity Model Verses UEDGE Data ..........................................................................33
+Figure 23. Thrust Contours from UEDGE Thrust Model ............................................................................33
+Figure 24. Exhaust Velocity Contours from UEDGE Thrust Model ...........................................................34
+Figure 25. Straight Line Trajectory Example. Specific power is 1000 W/kg, thrust efficiency is 0.3,
+and exhaust velocity is 100 km/s. ...........................................................................................36
+Figure 26. Variation of straight-line thrust and power with flight duration, on the left, and thrust
+Figure 27. Variation of straight-line thrust and power with exhaust velocity, on the left, and payload
+Figure 28. Variation of straight-line thrust and power with engine specific power, on the left, and a
+parameters: thrust of 10 N, mass of 2500 kg, resulting in a duration of 2.8 days and delta-
+V of 977 m/s. ...........................................................................................................................39
+Figure 32. Dipole torque due to the Earth’s magnetic field.
+Figure 33. Planar trajectory with thrust arrows. The change in direction of the thrust at the switch time
+Figure 35. Engine Mass Pie Chart for a 1 MW Engine. ..............................................................................48
+Figure 36. Power Flow Diagram for a 1 MW Engine ..................................................................................48
+Figure 37. Engine Mass Pie Chart for 10 MW Engine. ...............................................................................49
+Figure 38. Power Flow Diagram for a 10 MW Engine ................................................................................49
+Figure 39. Cross-Section of a Coil showing copper sheathing (for current transients) and structural
+Figure 40. Cutaway view of the engine model showing cooling channels embedded in shielding. ...........51
+Figure 43. Vehicle CAD Model. On the right, the vehicle without its solar shield, so that the fuel tanks
+Figure 47. PFRC Schematic showing the magnetic field topology and locations of the coils ....................59
+Figure 48. External antenna produce rotating magnetic fields. The azimuthally rotating electric field
+Figure 50. FRC particle trajectory in which a particle transitions from cyclotron motion to betatron
+Figure 52 Ion Trajectories showing energy pumping (RMF Software) ......................................................64
+Figure 55. PFRC Development plan ............................................................................................................66
+Table 4. Superconducting Wire Mass Comparison for a Single 0.5 m Radius Coil ....................................23
+Table 5. Coil Currents (MA) for Baseline Coil Geometry with Varying Minimum Radius for a Central
+Magnetic Field of 7 T .............................................................................................................24
+Table 6. Shielding Mass Calculations for a 3 m long FRC .........................................................................29
+Table 11. Straight Line Trajectory Results. For these results, the specific power is 1000 W/kg, the
+exhaust velocity is 100 km/s, and the thrust efficiency is 0.4. ................................................37
+Reversed Configuration (PFRC) fusion reactor under development at the Princeton Plasma
+Physics Laboratory. The truly game-changing levels of thrust and power in a modestly sized
+Figure 1. Artistic rendering of the DFD engine with an interior cutout to show detail of the
+coils.
+Drive (DFD) provides high thrust to allow for reasonable transit times to Pluto while delivering
+substantial mass to orbit: 1000 kg delivered in under four years using 5-10 N thrust.
+Since DFD provides power as well as propulsion in one integrated device, it will also provide as
+much as 2 MW of power to the payloads upon arrival. This enables high-bandwidth
+predicted thrust level can accomplish the mission and that no other plausible technology can
+predicted DFD engine characteristics. The goal is to determine the feasibility of the preliminary
+trajectory concept by applying limits on the thrust steering and range of throttle. The throttling of
+the thrust and specific impulse will affect the efficiency. We subcontracted to Princeton Plasma
+2.  Analyze shielding requirements on a component level and produce an improved shielding
+design and neutron radiation mitigation strategy
+3.  Analyze the thrust augmentation system and produce a model of efficiency vs. thrust
+4.  Using the new mass and thrust models generate an optimal Pluto mission trajectory
+superconducting coil cooling subsystem, but have focused on the heat engine, startup system,
+Coil
+Radiator
+HTS Coil Blanket
+Coil Cooling
+neutrons
+Shielding
+Radiator
+Figure 2. DFD System Components. Our Phase I focused on analysis of the components
+80 hours for PPPL's Dr. Cohen to develop a model of the thrust augmentation system that
+evaluates engine efficiency, thrust, and specific impulse.
+2.2  Princeton Field-Reversed Configuration (PFRC) Reactor
+Physics Laboratory dating to 2002. Princeton Field-Reversed Configuration machines (PFRC)
+A full-sized PFRC is perfectly suited to use as a rocket engine for two reasons: one, the
+configuration results in a radical reduction of neutron production compared to other D-3He
+fusion products. Adding propellant to this flow results in a variable thrust, variable specific
+impulse exhaust through a magnetic nozzle. We call this process thrust augmentation of the
+reactor. Approximately 35% of the fusion power goes to thrust, 30% to electric power, 25% lost
+The current one-quarter-scale machine, the PFRC-2 with a plasma radius to 7 cm (see Figure 3),
+kW, electron heating to temperatures Te > 300 eV has been demonstrated, see Figure 4. Ion
+heating studies will follow, once Te > 1 keV has been achieved. Pulse lengths of 300 ms have
+temperature superconducting internal flux conservers can produce a central internal field of 1.2
+kG. (An operational PFRC would have a field of 70 kG). The RF heating system has been
+upgraded to 200 kW. Additional diagnostics have been added, a notable one being a soft X-ray
+pulse-height spectrometer with an spectral range of 0.25-10 keV, an energy resolution of 9% at
+525 eV and 1% at 5.9 keV, and a count rate capability to in excess of 106/s.  Probes are used to
+Figure 3. PFRC-2 in operation. This photo captures a pulse; the plasma is white inside a Lexan
+Figure 4. X-ray spectrum from a recent PFRC-2 RMF run. The tail electron temperature
+reached over 500 eV and the bulk temperature over 300 eV. [Courtsey C. Swanson and P.
+There are four main software packages that have been used to analyze the PFRC configuration
+license. This code has been used to study FRC formation by RMF, RMF penetration,
+2.  UEDGE - This 2-D multi-species fluid code predicts electron and ion temperatures based
+3.  RMF - This Hamiltonian code, authored by Alan Glasser, models single-particle heating
+in 3-D with specified magnetic fields, e.g., FRCs and RMF.
+radiation effects in ITER, including neutron transport, activation, and defect generation.
+ATTILA was used in prior work to generate shielding thicknesses based on certain neutron
+power and acceptable neutron fluences. UEDGE was used during the course of this study to
+generate new simulation results for thrust and specific impulse as a function of input power and
+gas flow rate. RMF and LSP have been used in prior work to build the theoretical foundation of
+PFRC operation including detachment in the terminating magnetic nozzle. For more details see
+Appendix A which has a detailed technical description of the PFRC.
+tools for sizing shielding and cryogenic cooling systems
+complete DFD system as to better estimate the specific power of the technology. Previous
+scaling laws and size the individual components in the heat exchanger, RF system, and radiators,
+as well as the support structure for the coils. We also began analysis of layout options and
+engines. However, at power levels greater than 20 kW, Brayton engines begin to become more
+1.  Compressor 1 - a low pressure compressor
+the gas over the radiator, which rejects heat to space.
+3.  Compressor 2 - a high pressure compressor
+temperature seen at the turbine. However, if the external source already heats the working
+6.  Turbine 1 - a low pressure turbine
+7.  Turbine 2 - a high pressure turbine
+9.  Precooler - transfers heat to the radiators to cool the working fluid down to an acceptable
+10. Radiator - rejects waste heat to space
+D2/O2 combustion that also powers the start-up of the Heater. The fluid’s pressure and
+temperature increase as it passes through Compressor 1. In order to maximize efficiency of
+the working fluid will pass into cooling coils that loop around the nuclear reactor. At this point,
+the working fluid will be heated to very high temperatures - around 1500 K - through radiation
+same pressure as the inlet stream to Compressor 1. The gas may pass through a Recuperator to
+original temperature.
+accurately model a non-ideal closed-loop Brayton Cycle. The scripts take an inlet pressure, inlet
+temperature, and desired pressure ratio as inputs, and calculate pressure, temperature, flow rate,
+1.  Baseline pressure
+2.  Baseline temperature
+3.  Pressure ratio
+Figure 6 shows sample output for a pressure ratio of 2. The temperature and pressure are noted
+efficiencies. Because of its higher molecular weight, Xenon has a lower value of beta,
+which is derived from its value of (1 – specific heat ratio). A lower value of beta means
+that an increase in pressure drop
+will correspond to a lower change in temperature.
+Higher pressure drops and smaller temperature changes are ideal. Thus, by utilizing a
+•  The molecular weight of the mixture (42.2g/mol) is closer to that of air (28.8g/mol) than
+pure helium (4g/mol), making it easier to design and test the turbines and compressors.
+Figure 8 shows a schematic layout of the Brayton cycle components relative to the DFD main
+lengths given, which assume that the main engine is 4 m long and 1 m in diameter. There needs
+pipe length of 15 m.
+Max fluid temperature
+Pressure ratio
+350 kW
+electric vehicle motors, which produce about 150 kW in about 80 kg. The turbine and
+compressor masses are scaled using GE90 jet engine which uses the same pressure ratio,
+temperature, and ceramic blade material as our system. The piping assumes 18 cm diameter
+stainless pipes with a wall thickness of 0.2 cm.
+30 kg
+130 kg
+80 kg
+240 kg
+1 kg Hydrogen produces 120 MJ/kg of energy when combusted with 8 kg of oxygen. Deuterium
+has double the atomic mass of hydrogen, so twice as much is required, and 2 kg of deuterium
+converted to electricity in the Brayton Heat Engine for use in energizing the coils, powering the
+seconds. For a 10 MW engine, this is 2 MW for 100 s, or 200 MJ. This will require 13.5 kg
+oxygen and 3.4 kg deuterium.
+The ISS unit has a mass of 446 kg and can produce 5 kg of oxygen per day. If we scale down
+from this system, we might have a unit that is 100 kg if we want to produce 1.5 kg per day or 15
+kg if we want to produce 0.135 kg per day, which would require 100 days to regenerate the 13.5
+engine. For example, the RL-10B-2 engine produces 249 MW with a total mass of 277 kg;
+approximately 80 kg of this mass is the combustor unit itself. We can’t scale down from this
+directly, but can assume a 2 MW unit (or less for a 1-5 MW engine) will be a small fraction of
+aluminum pipes are used, and the unit is 24” long, the mass of the tubes is about 6 kg and the
+enclosing vessel another 4 kg. Table 3 gives a summary of the estimated component masses for a
+1 MW engine.
+15 kg
+5 kg
+10 kg
+10 kg
+15 kg
+
+==== PPPL-5064.pdf ====
+The Direct Fusion Drive (DFD) is a nuclear fusion engine that produces both thrust and electric power. It employs
+temperatures. The engine uses deuterium and helium-3 as fuel and additional deuterium that is heated in the scrape-off
+layer for thrust augmentation. In this way variable exhaust velocity and thrust is obtained.
+Space Habitat to house the crew. The spacecraft starts in Earth orbit and reaches escape velocity using the DFD.
+shielding are discussed. The computation of the speciﬁc power for the engine is presented along with a full mass
+the harmful effects of muscle atrophy from long-term
+destinations. A DFD-powered transfer stage could get
+To demonstrate the potential of DFD technology, we
+With a variable thrust augmentation system, the DFD
+where it would dock with the DFD transfer vehicle. The
+Orion. It has six 11.5 MW engines. This provides re-
+4. Variable speciﬁc impulse and thrust through deu-
+5. High temperature superconductors for plasma
+higher levels of thrust and power
+Space Habitat on the DFD transfer vehicle.
+tor (PFRC-R) would be a 2 m diameter, 10 m long,
+achievement of sufﬁciently high plasma temperatures
+for D– 3He fusion reactions. An FRC employs a lin-
+ear solenoidal magnetic-coil array for plasma conﬁne-
+ment and operates at higher plasma pressures, hence
+higher fusion power density for a given magnetic ﬁeld
+collimated directed exhaust stream that may be used for
+propulsion. A rocket engine based on the PFRC is de-
+lower levels of neutrons than deuterium-tritium, reduc-
+ing shielding mass as well as waste energy unavailable
+In the PFRC-R, waste heat generated
+temperature. The features of this design are:
+1. Odd-parity rotating magnetic ﬁeld (RMF) heating
+3. Combined thrust and electric power generation
+Schematic of the DFD core. Deuterium
+over the FRC region. This gas-feed process augments
+the mass ﬂow and increases the thrust, at the cost of
+reduced speciﬁc impulse. The white region is neutron
+shielding, predominantly for the coils.
+the ratio of the plasma pressure to the magnetic energy
+density. Of all candidate magnetic-conﬁnement fusion
+reactors, FRCs have the highest β, see [8] for a review of
+early FRC research. Accordingly, FRC magnets would
+power. High β is essential for burning aneutronic fuels,
+gies to achieve the same fusion reactivity as D–T. FRC
+control of the plasma exhaust and its plume angle, for
+FRC is unique among quasi-toroidal, closed-ﬁeld-line
+nected. FRCs also have zero toroidal magnetic ﬁeld, no
+heating. Figure 2 shows the FRC’s magnetic-ﬁeld struc-
+ture and the linear coil array. A separatrix divides a
+Gas BoxExhaust PlumeSOL Heating SectionField Shaping BoxSeparatrixClosed FieldNozzle CoilPropellantD-He3 FusionCoilsCoilFuelingRMFo Antenna Region
+(OFR). Field-shaping coils that are magnetic ﬂux con-
+ducting ﬂux conserving coils are visible in the interior.
+shielding is needed for the PFRC-2 as it forms hydrogen
+plasmas, hence does not produce neutrons.
+an even-parity rotating magnetic ﬁelds (RMFe) [11], a
+requires larger FRCs. FRCs where the plasma radius is
+parity RMF, RMFo, allowing for smaller, more stable
+Many physics challenges remain before the RMFo-
+heated FRC can be developed into a practical reac-
+ing to fusion-relevant temperatures, must be validated.
+FRC [12, 13]. (Classical conﬁnement time occurs for
+only 1/5 as large as the classical. In 2007, an RMFo-
+heated FRC [15] achieved stable plasma durations 3,000
+RMFo will be able to heat plasma electrons and ions
+to fusion relevant temperatures. These are promising
+temperatures and densities, and with burning, i.e. fus-
+of 30 cm is adequate for conﬁning the high energy
+plasma needed to produce 11.5 MW of fusion power.
+This radius matches criteria set by the RMFo heating
+the PFRC-2 experiment at PPPL. This vessel section
+PFRC-2 device during assembly.
+PFRC-2 device during operation.
+gas box is for the thrust augmentation. The amount
+ducting coils.
+It also includes the RMFo system and
+the shielding and cooling systems. On the right of the
+FRC are the coils for the magnetic nozzle which di-
+ﬁeld lines for directed thrust. The high temperature su-
+perconducting coil blanket is cooled by a refrigeration
+Shielding
+Coil
+HTS Coil Blanket
+Radiator
+Radiator
+power. Waste heat ﬂows to the radiator system. The
+RMFo system is driven by the RF generators in the up-
+approximately 5 cm thick. Between the SOL and the
+neutron shielding is a 5-cm-thick vacuum space. The
+neutron and X-ray shielding protect the magnet coils
+and RMFo antenna from radiation damage. Note, no
+The magnetic nozzle and thrust augmentation sys-
+of the thrust level and exhaust velocity. A magnetic noz-
+ﬂow from the FRC to free space. The nozzle consists
+of a throat coil and two or more additional nozzle coils
+the coils are superconducting but the radii of the mag-
+netic nozzle coils are smaller than those in the reactor
+DFD transfer vehicle. The speciﬁc power is greater than
+1 kW/kg which is in line with other studies.
+1 MW
+1 MW
+2.05 MW
+11.5 MW
+0.5 MW
+Neutron
+RMF
+0.6 MW
+4.57 MW
+Thrust
+4.2 MW
+1.1 MW
+0.18 MW
+3.58 MW
+7.8 MW
+3.12 MW
+Radiators
+Figure 6: DFD Power balance
+Shielding
+The shielding system uses a 0.64 cm thick layer
+a 20 cm layer of 10B4C for neutron shielding. The
+a temperature of 2000 K and ultimately be rejected to
+space by the radiators at 625 K. Figure 7 on the next
+page shows the shielding geometry.
+Table 1: DFD transfer vehicle engine design
+Area radiator
+Beta
+Number density D
+Number density He3
+Temperature D
+Temperature He3
+Mass radiator
+Mass shield
+Power into plasma (12 MW)
+RMF Into Plasma
+Power lost from plasma (12 MW)
+Neutrons
+Thrust
+To radiator
+Electric power to RMF0
+The DFD power balance is illustrated in Figure 6.
+If we used the thruster power it would be
+0.425 kW/kg. The trajectory numbers used the total
+ing for the radiators and supporting systems. The ra-
+nal disturbances and thrust vector misalignments with
+be accomplished by tilting the DFD exhaust plasmas
+Shielding.
+The shielding system was analyzed using Attila, a
+neutrons from D-D reactions. D-T reactions will be
+perconducting coils, and then heats the plasma through
+the RMFo system. This startup system needs to run for
+approximately 100 seconds, hence is sized at 2 MW.
+The DFD transfer vehicle could therefore be sent to low
+ing structure including the DFD engines, radiator core,
+powered by DFDs and carrying NASA’s Deep Space
+ing the DFD. No aerodynamic braking is required.
+Table 2 gives the mass budget for the DFD transfer
+mates magnetic mass from the material density, induced
+Table 2: DFD transfer vehicle mass budget. The Orion
+1.535e+04 kg
+3.988e+04 kg
+8.981e+04 kg
+1.468e+05 kg
+which is compatible with the SLS schedule. The DFD
+PFRC-2 ion heating experiment, detailed trajectory
+nents. Design of PFRC-3 will begin once the ion heat-
+PFRC-2 and demonstrate higher temperatures and pres-
+sures. PFRC-4 will demonstrate fusion power genera-
+pact Aneutronic Fusion Engine,” October 2012.
+Cohen, S., “Modular Aneutronic Fusion Engine,”
+Aneutronic Fusion Engine for an Alpha Centauri
+the Star Thrust Experiment,”
+rotating magnetic ﬁelds in an FRC,” Physical Re-
+
+==== cohen2019jbis.pdf ====
+The Direct Fusion Drive rocket engine (DFD), based on the Princeton Plasma Physics Laboratory’s Princeton Field Reversed
+discusses a design for a starship that would be well suited to a variety of solar system and interstellar missions. DFD
+employs a unique plasma heating system to produce nuclear fusion engines in the range of 1 to 10 MW, ideal for human
+thrust augmentation method is described along with results of multi-fluid simulations that give an envelope of expected
+thrust and specific impulse. The power balance is described and the subsystems needed to support the fusion core are
+Alpha Centauri A or Alpha Centauri B systems. The mission analyses include a communications system link budget. DFD
+gy density of the fuel and the high velocity of the fusion prod-
+meter  or  more  of  neutron  shielding.  Such  large  and  massive
+B = magnetic field
+β = ratio of plasma pressure to magnetic-field energy density
+E = ratio of plasma FRC plasma core length to diameter
+Isp = specific impulse
+MT = metric tonne, 103 kg
+rs = FRC core plasma radius
+Th = Thrust
+fusion-reactor designs is field-reversed configuration (FRC), a
+Importantly, FRCs have more than 10x higher β than tokam-
+production.  The  high  β,  coupled  with  the  FRC’s  quasi-linear
+geometry, reduce the required peak magnetic field by about a
+use of so-called aneutronic fuels, e.g., D-3He, whose main reac-
+tion produces far fewer neutrons than D-T fusion. Accordingly,
+less shielding (mass) is required. One member of the FRC family
+– the inductively driven, liner-compression Pulsed-High-Den-
+with D-T, producing an average power of 70 MW. Another FRC
+family member is the Star Thrust Experiment (STX) [8], a 1-m
+called  rotating  magnetic  fields  [9,  10]  (RMF).  An  STX  rocket
+In this paper we describe a third member of the FRC fami-
+ly, the D-3He-fueled Direct Fusion Drive (DFD) rocket engine
+[11]. Similar to STX in employing RMF, the DFD differs in ma-
+gine. Important differences are: 1) the DFD RMF method has
+different symmetry [12] (odd parity versus even parity, RMFo
+vs  RMFe),  providing  improved  energy  confinement  hence  al-
+100-400x smaller volume and mass; 2) The smaller radius DFD
+smaller radius of the DFD plasma allows a method to improve
+the  properties  of  the  rocket  exhaust,  with  specific  impulse,
+Isp, to 2 x 104 s (and beyond) and thrust, Th, to 10 N/MW; 4)
+DFD operation reduces neutron wall fluxes more than a factor
+of  1000  compared  to  D-T  devices,  thereby  reducing  neutron
+shielding  thickness  by  a  factor  of  10  and  increasing  engine
+covery systems, raising specific power, and optimizing plasma
+DFD’s  fusion  core,  explaining  how  the  novel  RMFo  method
+neutron production rate, and the power balance. Section 4 de-
+THE DFD ROCKET ENGINE CORE
+high temperature (ca. 100 keV), moderate density (ca. 5 x 1014
+cm-3) plasma region named the core. For the FRC, this region is
+Fig.1 FRC sketch, adapted from [?].
+rent is needed, perpendicular to the FRC’s magnetic field. On
+axis, the direction of the magnetic field created by the plasma
+created by external coils. If the axes of the two fields are not ex-
+we  shall  describe  how  RMFo  generates  the  current  and  heats
+plasma  radius,  rs,  are  likely  to  be  fluid-like.  For  an  FRC,  the
+small, high-temperature FRC, neither fluid criterion is satisfied
+ticle in a magnetic field, a stand-in for a hot plasma. An axial
+review [16]. It should be noted that several FRCs [17, 18, 19,
+We  now  address  how  RMFo  heats  particles  and  allows  the
+size of the FRC to be relatively small.
+There are several reasons why energy confinement in FRCs can
+to keep the FRC confinement from becoming poor!
+In contrast, RMFo current drive is first order because of its
+Bz near the FRC’s midplane. The time variation of that field cre-
+jectories are punctuated betatron orbits, separated by periods
+circulate. In the RMFo’s rotating frame, figure 6c), these punc-
+tuated  betatron-orbit  electrons  form  a  crescent,  hence  move,
+RMFo [28].
+In  an  FRC  reactor,  these  current-carrying  electrons  will
+efficiency of RMFo for driving current. Away from the O-line
+tion by Eφ, with an additional contribution from the RMFo-cre-
+ated z and r electric fields. That the RMFo frequency should not
+Fig.5 Snapshot of the azimuthal electric field in the FRC’s midplane
+created by RMFo. This field rotates with the RMFo.
+be far from the ion cyclotron frequency (at the FRC’s center)
+ing, the non-uniformity of the FRC’s magnetic field, especially
+of  the  RMF,  introducing  stochasticity  into  the  motion  hence
+energy. Note that the required RMFo strengths, to ~ 200 G, and
+frequencies, 0.3-3 MHz, to achieve ion energies of 100 keV are
+Having a small FRC, allowed because of the better energy
+confinement,  makes  RMFo  operation  better.  It  improves  the
+Fig.6a Punctuated betatron orbit near the
+FRC midplane. At the start and end of
+the betatron segments, the orbit becomes
+cyclotron. (Bo = 20 kG, r¬s = 10 cm, ωRMF/
+Fig.6a In the frame rotating with the RMFo,
+the punctuated betatron trajectory appears
+as a crescent, with the betatron segments
+Fig.3 Magnetic field lines when a larger amplitude odd-parity
+magnetic field, Bt = 0.04, is added to a Solov’ev FRC. (a) Closed field
+that plane show little change in shape. This FRC’s major axis is
+RMFe was proposed to drive current in the plasma, not to heat
+it  to  fusion-relevant  temperatures.  The  current-drive  mecha-
+time-varying RMFe magnetic field (in the r and φ directions)
+Fig.4 Confinement quality vs ion temperature, Ti. The TriAlpha
+C-2 FRC device has shown better confinement quality, β/χ, than
+Fig.7a Maximum ion energy versus RMFo frequency for different
+RMFo strengths in a 10-cm radius, 20-kG FRC.
+Fig.7b Early time evolution of ion energy for two values of the RMF
+Fig.2 A very small-amplitude (Bt = 0.005), uniform, transverse
+magnetic field (even parity) is added to a Solov’ev FRC with B0 = 1.
+are clearly open. This FRC’s major axis is vertical [12].
+The net magnetic field caused by the external coils and the
+er for open field lines. The addition of RMFe to an FRC causes
+the field lines to open, see figure 2, while application of RMFo
+is that the FRC, by itself, is of odd parity [21]. Mixing parities,
+such  as  by  adding  RMFe,  causes  all  of  an  FRC’s  field  lines  to
+increases in electron temperature, Te, with RMFo compared to
+ing power operating with RMFe.
+as  (1  +  q2).  For  tokamaks  q  ≥  3  while  for  pure  FRCs  q  =  0.
+Accordingly, FRCs should have about 10x better confinement.
+pha FRC, clearly better than the tokamak results. Whether the
+same improvement occurs in FRCs at higher ion temperatures
+gy transport in FRCs is called the lower-hybrid drift instability
+penetration of the RMFo field to the FRC’s null line where cur-
+rent drive is more efficient; it requires higher RMFo frequency,
+sult in far lower neutron wall load.
+FUEL CHOICE, NEUTRON PRODUCTION, AND POWER
+The production of neutrons by fusion is particularly problem-
+atic  for  spacecraft  propulsion.  Neutrons  cause  damage  and
+needed for shielding. Neutrons are hard to “direct” hence may
+contribute little to the thrust required of a rocket engine. Having
+lems at the added cost of requiring higher plasma temperatures
+aneutronic fuels. Of the two aneutronic fuels most commonly
+discussed, we choose D-3He instead of p-11B. The low energy
+release from p-11B fusion, plus the lower fuel density possible
+at fixed magnetic field (because of the higher nuclear charge)
+and the higher temperatures required, makes p-11B a dubious
+choice. A penalty must be paid for selecting D-3He. There are
+neutrons from one D-D fusion branch and possibly from the T
+A  small  FRC  allows  solutions  to  these  problems.  The  sur-
+FRC, a 32-fold improvement is obtained compared to an 8-m
+tokamak.  Additionally,  fusion  products  born  in  a  small  FRC
+will  have  their  orbits  pass  through  the  cool  SOL  of  the  FRC
+from  1  Mev  to  100  keV,  and  their  orbits  will  become  cyclo-
+Once in the SOL, the T+ will be exhausted out the nozzle with
+neutrons produced by D-D fusion will remain a problem.
+The third step in reducing neutron production is to increase
+power  density  approximately  linearly  but  the  percentage  of
+power in neutrons quadratically.
+From  a  neutron-production  perspective,  the  net  effect  of
+reduction of neutron power flux to the first wall. The thickness
+of the neutron shielding, 100% 10B, would be 10-30 cm, based
+In this section we analyze a point design for a DFD rocket en-
+the  plasma  density,  ion  and  electron  temperatures,  plasma
+radius and elongation, and the external coils inner radius, rc.
+shielding, sets the plasma β through the Barnes relation, <β>
+Fig.8a T+ trajectory projected on the midplane of an FRC. The T+
+transition of the orbit from betatron to figure-8 to cyclotron, the
+model with rs =30 cm, E = 6, Te = 30 keV, Ti = 100 keV, ne =
+3x1020 m-3, and a 2:1 3He to D ratio. Flat temperature and den-
+ward to calculate β, fusion power, magnetic field strength, and
+neutron shielding. That energy is recovered with an efficiency
+50-100 eV/ion, with higher values required at lower densities.
+picted in figure 9, which, for this DFD, is providing primarily
+thrust. If more electrical power is required for station keeping
+or communications, the thrust power can be diverted to gener-
+figure 10. This assumes a conservative permitted neutron flux
+on the superconducting coils, below 1018 n/cm2 and below 10-4
+DPA, resulting in a 10-cm-thick 10B shield, sufficient for 1 year
+at full power. Increasing the shielding thickness to 22 cm would
+increase the superconducting-coils lifetime to 13 years.
+TABLE 1 Parameters for a 2-MW DFD rocket engine
+PRMF (MW)
+ψRMF penetration
+Isp (s)
+Thrust (N)
+% power in neutrons
+DFD
+D-3He
+3 x1020
+1.6x10 6
+2.3x10 4
+Fig.9 Power-flow diagram of a 2-MW DFD.
+Fig.10 Mass budget of the DFD engine.
+energy  confinement  seen  by  C-2  and  PFRC-1.  The  two  sta-
+3. One further criterion [10] worth mentioning, named ψRMF
+penetration,  is  that  for  RMF  field  to  penetrate  in  the  core  of  the
+FRC. This parameter was derived for RMFe not RMFo, so its
+applicability  is  questionable.  For  RMFe  ψRMF  penetration  must  be
+greater than 1 for penetration. For the DFD, this parameter is
+The neutron wall load for this plasma is 2500x below that
+ment. The amount of thrust power lost in the neutron chan-
+The Isp predicted for the DFD depends on the propellant
+duces an Isp above 2 x 104 s. For higher propellant flow, Isp
+increase along with the thrust, topics we describe in more
+figure  11  and  an  artist’s  rendition  of  a  DFD  module  is  in
+Fig.13a Electron density, ne, contours.
+Fig.13b Electron temperature, Te, contours.
+Fig.11 Block diagram of DFD major subsystems.
+Fig.12 Artist’s rendition of a 2-MW DFD module.
+THE SCRAPE-OFF LAYER (SOL) AND ROCKET EXHAUST
+The  SOL  of  the  DFD  is  quite  different  than  that  of  any  oth-
+mal  gradient  in  pressure.  Because  this  diffusive  transport  is
+slow compared to the flow along the magnetic field, the SOL
+plasma outer radius at its midplane is 9 m, δSOL⁄rs
+In  the  DFD,  the  density  profile  of  the  SOL  is  determined  by
+gas box and the plasma midplane. For the DFD in Table 1, the
+SOL would be about 7 cm thick, δSOL⁄rs >0.2 . Energy is depos-
+fusion products. Thus the DFD, the SOL + FRC, is more like a
+Because  of  the  relatively  low  temperature  (<  100  eV)  and
+high  density  (>  5  x  1019  m-3)  of  the  SOL,  resulting  in  a  colli-
+than 50 cm, it is appropriate to use a fluid model for the SOL
+in the central 2 m, and the nozzle is located at z ~ 2 m. The in-
+
+==== niac_2016_phasei_thomas_fusiontopluto_tagged.pdf ====
+Configuration (PFRC) fusion reactor under development at the Princeton Plasma Physics
+Laboratory. The truly game-changing levels of thrust and power in a modestly sized package
+During this Phase I effort, we made great strides in modeling the engine efficiency, thrust, and
+reactor’s outer stratum, its scrape-off-layer (SOL), we estimate achieving 2.5 to 5 N of thrust for
+each megawatt of fusion power, reaching a specific impulse, Isp, of about 10,000 s. Supporting
+Our point solution for the Pluto mission now delivers 1000 kg of payload to Pluto orbit in 3.75
+years using 7.5 N constant thrust. This could potentially be achieved with a single 1 MW engine.
+mounted on a gimbal that allows it to track the orbiter, which beams 30 to 50 kW of power using
+Our mass modeling investigations revealed that if current high-temperature superconductors are
+utilized at liquid nitrogen temperatures, they drive the mass of the engine, partly because of the
+shielding required to maintain their critical temperature. Second generation materials are thinner
+future “high-temperature” superconductors at a moderately low temperature to dramatically
+reduce the amount of shielding required. At the same time, a first generation space engine may
+require low-temperature superconductors, which are higher TRL and have been designed for
+space coils before (AMS-02 experiment for the ISS).
+2.2  Princeton Field-Reversed Configuration (PFRC) Reactor
+3.1.4  Radiators
+3.1.5  Superconducting Coils
+3.2  Shielding Design
+3.3  Thrust Augmentation
+Appendix A.   PFRC Technical Description
+A.1  PFRC Overview
+A.3  PFRC Fusion Reactions
+A.4  RMF Heating Method
+A.5  Reduction of Neutrons
+A.7  Thrust Augmentation
+PFRC-2:  Prove ion heating method
+PFRC-3A:  Achieve thermonuclear parameters
+PFRC-3B: Demonstrate low-neutron-production fusion and ash- and energy-removal methods
+A.9  PFRC Summary
+Figure  1.  Artistic rendering of the DFD engine with an interior cutout to show detail of the coils. ....... 8
+Figure  2.  DFD System Components. Our Phase I focused on analysis of the components shaded in
+Figure  3.  PFRC-2 in operation.  This  photo  captures  a  pulse;  the  plasma  is  white  inside  a  Lexan
+Figure  4.  X-ray spectrum from a recent PFRC-2 RMF run. The tail electron temperature reached over
+500 eV and the bulk temperature over 300 eV
+Figure  11.  Proposed Class E Amplifier RMF Drive Architecture......................................................... 22
+Figure  12  Fusion Solenoid with Ellipsoidal Tapering Coils. The 7 T field strength is at the center of
+Figure  13.  Magnetic Field Shape with Ellipsoidal Solenoid ................................................................. 25
+Figure  14.  Coil Radii and Currents for Ellipsoidal Solenoid................................................................. 26
+Figure  15.  10 degree  segment  ellipsoidal  FRC  reactor  model.  The  plasma  ellipsoid  has  a  25-cm
+midplane  radius.  The  B4C   shielding is  cylindrical  along the  length.  The  ends  of  the
+axial  field  coils  are shown  as  well  as  three RMFo   antenna segments
+Figure  16.  DPA versus shield thickness for the HTS (YBCO) coils and RF antennae. ........................ 28
+Figure  17.  Thrust Data from UEDGE Simulations of SOL Input Power and Gas Flow Rate............... 29
+Figure  18.  Thrust Model verses UEDGE Simulation Data.................................................................... 30
+Figure  19.  Thrust Performance for a 1 MW Power Input...................................................................... 31
+Figure  20.  Thrust Performance for a 4 MW Power Input...................................................................... 31
+Figure  21.  UEDGE Thrust Efficiency from Input Power ...................................................................... 32
+Figure  22.  Exhaust Velocity Model Verses UEDGE Data .................................................................... 32
+Figure  23.  Thrust Contours from UEDGE Thrust Model...................................................................... 33
+Figure  24.  Exhaust Velocity Contours from UEDGE Thrust Model..................................................... 33
+Figure  25.  Straight Line Trajectory Example. Specific power is 1000 W/kg, thrust efficiency is 0.3,
+and exhaust velocity is 100 km/s. ..................................................................................... 36
+Figure  26.  Variation of straight-line thrust and power with flight duration, on the left, and thrust
+Figure  27.  Variation of straight-line thrust and power with exhaust velocity, on the left, and payload
+Figure  28.  Variation of straight-line thrust and power with engine specific power, on the left, and a
+parameters:  thrust  of  10 N,  mass  of  2500 kg,  resulting in a  duration of  2.8 days  and delta-
+V of  977  m/s...................................................................................................................... 39
+Figure  32.  Dipole torque due to the Earth’s magnetic field.
+Figure  33.  Planar  trajectory  with  thrust  arrows.  The  change  in  direction  of  the  thrust  at  the  switch  time
+Figure  35.  Engine Mass Pie Chart for a 1 MW Engine. ........................................................................ 48
+Figure  36.  Power Flow Diagram for a 1 MW Engine............................................................................ 48
+Figure  37.  Engine Mass Pie Chart for 10 MW Engine. ......................................................................... 49
+Figure  38.  Power Flow Diagram for a 10 MW Engine.......................................................................... 49
+Figure  39.  Cross-Section  of  a  Coil  showing  copper  sheathing  (for  current  transients)  and  structural
+Figure  40.  Cutaway view of the engine model showing cooling channels embedded in shielding. ..... 51
+Vehicle  CAD  Model.  On  the  right,  the  vehicle  without  its  solar  shield,  so  that  the  fuel  tanks
+Figure  47.  PFRC Schematic showing the magnetic field topology and locations of the coils .............. 59
+Figure  50.  FRC  particle  trajectory  in  which  a  particle  transitions  from  cyclotron  motion  to  betatron
+Figure  52  Ion Trajectories showing energy pumping (RMF Software) ................................................ 64
+Figure  55.  PFRC Development plan...................................................................................................... 67
+Table  4.  Superconducting Wire Mass Comparison for a Single 0.5 m Radius Coil.............................. 23
+Table  5.  Coil Currents (MA) for Baseline Coil Geometry with Varying Minimum Radius for a Central
+Magnetic Field of 7 T ....................................................................................................... 24
+Table  6.  Shielding Mass Calculations for a 3 m long FRC ................................................................... 29
+Table  11.  Straight Line Trajectory Results. For these results, the specific power is 1000 W/kg, the
+exhaust velocity is 100 km/s, and the thrust efficiency is 0.4........................................... 37
+Reversed Configuration (PFRC) fusion reactor under development at the Princeton Plasma
+Physics Laboratory. The truly game-changing levels of thrust and power in a modestly sized
+Figure  1. Artistic rendering of the DFD engine with an interior cutout to show detail of the coils.
+Drive (DFD) provides high thrust to allow for reasonable transit times to Pluto while delivering
+substantial mass to orbit: 1000 kg delivered in under four years using 5-10 N thrust.
+Since DFD provides power as well as propulsion in one integrated device, it will also provide as
+much as 2 MW of power to the payloads upon arrival. This enables high-bandwidth
+predicted thrust level can accomplish the mission and that no other plausible technology can
+predicted DFD engine characteristics. The goal is to determine the feasibility of the preliminary
+trajectory concept by applying limits on the thrust steering and range of throttle. The throttling of
+the thrust and specific impulse will affect the efficiency. We subcontracted to Princeton Plasma
+2.  Analyze shielding requirements on a component level and produce an improved shielding
+design and neutron radiation mitigation strategy
+3.  Analyze the thrust augmentation system and produce a model of efficiency vs. thrust
+4.  Using the new mass and thrust models generate an optimal Pluto mission trajectory
+superconducting coil cooling subsystem, but have focused on the heat engine, startup system,
+Coil
+Radiator
+HTS Coil Blanket
+Coil Cooling
+neutrons
+Shielding
+Radiator
+Figure 2. DFD System Components. Our Phase I focused on analysis of the components shaded in blue.
+80 hours for PPPL's Dr. Cohen to develop a model of the thrust augmentation system that
+evaluates engine efficiency, thrust, and specific impulse.
+2.2  Princeton Field-Reversed Configuration (PFRC) Reactor
+Physics Laboratory dating to 2002. Princeton Field-Reversed Configuration machines (PFRC)
+A full-sized PFRC is perfectly suited to use as a rocket engine for two reasons: one, the
+configuration results in a radical reduction of neutron production compared to other D3-He
+fusion products. Adding propellant to this flow results in a variable thrust, variable specific
+impulse exhaust through a magnetic nozzle. We call this process thrust augmentation of the
+reactor. Approximately 35% of the fusion power goes to thrust, 30% to electric power, 25% lost
+scale machine, the PFRC-2 with a plasma radius to 7 cm (
+kW, electron heating to  temperatures  Te  > 300 eV has been demonstrated, see Figure 4. Ion
+temperature superconducting internal flux conservers  can produce  a central internal field of 1.2
+kG. (An operational PFRC would have a field of 70 kG). The RF heating system has been
+upgraded to 200 kW. Additional diagnostics have been added, a notable one being a soft X-ray
+pulse-height spectrometer with an spectral range of 0.25-10 keV, an energy resolution of 9% at
+Te  > 1 keV has been achieved. Pulse lengths of 300 ms have
+525 eV and 1% at 5.9 keV, and a count rate capability to in excess of 106/s.  Probes are used to
+Figure 3. PFRC-2 in operation. This photo captures a pulse; the plasma is white inside a Lexan vacuum
+Figure 4. X-ray spectrum from a recent PFRC-2 RMF run. The tail electron temperature reached over
+500 eV and the bulk temperature over 300 eV.
+There are four main software packages that have been used to analyze the PFRC configuration
+license. This code has been used to study FRC formation by RMF, RMF penetration,
+2.  UEDGE - This 2-D multi-species fluid code predicts electron and ion temperatures based
+3.  RMF - This Hamiltonian code, authored by Alan Glasser, models single-particle heating
+in 3-D with specified magnetic fields, e.g., FRCs and RMF.
+radiation effects in ITER, including neutron transport, activation, and defect generation.
+ATTILA was used in prior work to generate shielding thicknesses based on certain neutron
+power and acceptable neutron fluences. UEDGE was used during the course of this study to
+generate new simulation results for thrust and specific impulse as a function of input power and
+gas flow rate. RMF  and LSP have been used in prior work to build the theoretical foundation of
+PFRC operation including detachment in the terminating magnetic nozzle. For more details see
+Appendix A which has a detailed technical description of the PFRC.
+tools for sizing shielding and cryogenic cooling systems
+complete DFD system as to better estimate the specific power of the technology. Previous
+scaling laws and size the individual components in the heat exchanger, RF system, and radiators,
+as well as the support structure for the coils. We also began analysis of layout options and
+engines. However, at power levels greater than 20 kW, Brayton engines begin to become more
+1. Compressor 1 - a low pressure compressor
+the gas over the radiator, which rejects heat to space.
+3. Compressor 2 - a high pressure compressor
+temperature seen at the turbine. However, if the external source already heats the working
+6. Turbine 1 - a low pressure turbine
+7. Turbine 2 - a high pressure turbine
+9. Precooler - transfers heat to the radiators in order to cool the working fluid down to an
+10. Radiator - rejects waste heat to space
+D2/O2 combustion that also powers the start-up of the Heater. The fluid’s pressure and
+temperature increase as it passes through Compressor 1. In order to maximize efficiency of
+Recuperator, the working fluid will pass into cooling coils that loop around the nuclear reactor.
+At this point, the working fluid will be heated to very high temperatures - around 1500 K -
+have dropped to roughly the same pressure as the inlet stream to Compressor 1. The gas may
+exchanger to bring it down to its original temperature.
+accurately model a non-ideal closed-loop Brayton Cycle. The scripts take an inlet pressure, inlet
+temperature, and desired pressure ratio as inputs, and calculate pressure, temperature, flow rate,
+1. Baseline pressure
+2. Baseline temperature
+3. Pressure ratio
+Figure 6 shows sample output for a pressure ratio of 2. The temperature and pressure are noted
+efficiencies. Because of its higher molecular weight, Xenon has a lower value of beta,
+which is derived from its value of  (1 – specific heat ratio) . A lower value of beta means
+that an increase in pressure drop
+will correspond to a lower change in temperature.
+Higher pressure drops and smaller temperature changes are ideal. Thus, by utilizing a
+• The molecular weight of the mixture (42.2g/mol) is closer to that of air (28.8g/mol) than
+pure helium (4g/mol), making it easier to design and test the turbines and compressors.
+Figure 8 shows a schematic layout of the Brayton cycle components relative to the DFD main
+lengths given, which assume that the main engine is 4 m long and 1 m in diameter. There needs
+pipe length of 15 m.
+Max fluid temperature
+Pressure ratio
+350 kW
+electric vehicle motors, which produce about 150 kW in about 80 kg. The turbine and
+compressor masses are scaled using GE90 jet engine which uses the same pressure ratio,
+temperature, and ceramic blade material as our system. The piping assumes 18 cm diameter
+stainless pipes with a wall thickness of 0.2 cm.
+30 kg
+130 kg
+80 kg
+240 kg
+1 kg Hydrogen produces 120 MJ/kg of energy when combusted with 8 kg of oxygen. Deuterium
+has double the atomic mass of hydrogen, so twice as much is required, and 2 kg of deuterium
+then be converted to electricity in the Brayton Heat Engine for use in energizing the coils,
+seconds. For a 10 MW engine, this is 2 MW for 100 s, or 200 MJ. This will require 13.5 kg
+oxygen and 3.4 kg deuterium.
+The ISS unit has a mass of 446 kg and can produce 5 kg of oxygen per day. If we scale down
+from this system, we might have a unit that is 100 kg if we want to produce 1.5 kg per day or 15
+kg if we want to produce 0.135 kg per day, which would require 100 days to regenerate the 13.5
+engine. For example, the RL-10B-2 engine produces 249 MW with a total mass of 277 kg;
+approximately 80 kg of this mass is the combustor unit itself. We can’t scale down from this
+directly, but can assume a 2 MW unit (or less for a 1-5 MW engine) will be a small fraction of
+aluminum pipes are used, and the unit is 24” long, the mass of the tubes is about 6 kg and the
+enclosing vessel another 4 kg. Table 3 gives a summary of the estimated component masses for a
+1 MW engine.
+15 kg
+5 kg
+10 kg
+10 kg
+15 kg
+55 kg
+15 – 35 kg
+
+==== pnas.201921779.pdf ====
+of the phenomenon of field reversed configuration (FRC), in which a dense mass of
+research plan until the mid-2020s, when he hopes to
+producing fusion energy until the mid-2030s.
+reversed configuration (FRC): a dense mass of ionized
+FRCs, says Stephen Dean, a nuclear engineer who has
+2020s, he says, all of them are eventually going to have
+tokamak design uses strong magnetic fields to guide ionized isotopes around a donut-shaped vacuum chamber.
+Such a direct fusion drive (DFD) would produce
+The same type of DFD rockets could also be
+want to make a fusion exhaust system, you still have to
+since the 1920s and 1930s, when they first realized
+sion research as well as anyone. Until the late 1990s,
+ping them in a magnetic field, and heating them to
+like being confined by a magnetic field; it twists and
+1960s. Thanks to strong magnetic fields that guide
+a handful of researchers stuck with the FRCs after
+a way to stabilize the FRC, and the reactor wouldn’t
+chamber with a comparatively mild magnetic field
+tively easy for the dense, hot plasma inside the FRC to
+deuterium-tritium fusion, either: FRCs could poten-
+tially reach the much higher temperatures required to
+burn aneutronic fuels such as deuterium-helium–3 or
+protons or helium-4 nuclei, which—unlike neutrons—
+can be captured and controlled with magnetic fields.
+minimal shielding.
+So in principle, says Cohen, FRC-based reactors
+could solve the tokamak’s size, complexity, and neutron
+FRC, how to heat it, what kind of fusion fuel to use, and
+get roughly 80 different potential FRCs.”
+in some ways the ultimate in neutron-free fusion: Its
+about 20 or 30 times higher than the temperatures re-
+FRC. From there, a beam of neutral atoms coming in
+from the side will simultaneously heat the FRC, supply
+where, if you start with the standard FRC and you don’t
+pany has shown that this process can sustain the FRC
+single, furiously spinning FRC. A beam of neutral atoms coming in from the side
+will simultaneously heat the FRC, supply it with fresh fuel, and stabilize it by
+And then there’s the neutron problem. The
+atively low plasma temperatures of about a hundred
+neutrons), they eject the leftover neutron at high
+neutral and can’t be controlled with magnetic fields,
+By the late 1990s such hurdles were spurring Cohen
+and others to take a fresh look at FRCs, which had
+been discovered in the 1960s.
+The key advantage was that an FRC doesn’t keep
+does. Instead, the FRC plasma is self-organizing. That
+is, the magnetic fields that hold it together are mostly
+itself, rather than in external coils. This self-organizing
+FRC plasmas are much hotter and denser than the
+Once it’s set up, an FRC actually looks less like a
+comes from the way magnetic fields curve around the
+takes the 25-megawatt beam to exhaust the energy
+beam and the FRC could keep going as long as the
+end of the 2020s, says Binderbauer. This machine will
+In Bellevue, Washington, meanwhile, another FRC-
+that uses twin plasma guns to form a stationary FRC in
+the middle. But instead of trying to sustain the FRC,
+magnetic field until
+against the magnetic field and allowing the system to
+“helion.” This reaction requires a temperature of
+aneutronic: the final products are two charged parti-
+Or rather, this fuel is almost aneutronic: It’s impossible
+with each other and producing at least some neutrons.
+But those neutrons are low energy and comparatively
+easy to shield against. And for Helion, the deuterium-
+an almost equal mix of a neutron plus helium-3, and a
+Field Reversed Configuration (PFRC) design since
+of his current device, PFRC-2, is only 88 centimeters
+jector in sight. Instead, the FRC is generated via a
+points to four rectangular copper coils that surround
+drive oscillating currents through these coils in a way
+that sets up a rotating magnetic field inside the tube: a
+fields create, stabilize, and heat the FRC”—all
+is whipped into an FRC, causing a flash. Each flash lasts
+which should keep the FRCs going indefinitely.
+on the main goal of PFRC-2, which is to improve the
+each other.” But compared with the temperatures
+“If you want to do this really ambitious stuff in the 2030s,
+well the rotating magnetic field approach will work in a
+and his group will replace this machine with PFRC-
+them to achieve FRCs lasting as long as 10 seconds,
+with plasma temperatures on the order of 60 million
+moving up to PFRC-4, an even larger machine
+designed to use live fusion fuel at temperatures of
+fore PFRC-based reactors are working reliably enough
+want to do this really ambitious stuff in the 2030s,”
+Paluszek says, alluding to DFD missions, “you need
+2 H. Gota et al., Formation of hot, stable, long-lived field-reversed configuration plasmas on the C-2W device. Nucl. Fusion 59, 112009
+3 C. Brunkhorst, B. Berlinger, N. Ferraro, S. A. Cohen, The Princeton FRC Rotating-Magnetic-Field-Experiment RF System in 2007 IEEE
+
+==== s10894-023-00342-2.pdf ====
+The Princeton Field-Reversed Conﬁguration (PFRC) nuclear fusion reactor concept is an innovative approach to fusion
+power generation prioritizing low neutron production and small size. A combination of analytical modeling and numerical
+simulation shows that the novel heating approach generates an FRC with closed ﬁeld lines. Simulation data from a single-
+of warm FRC plasmas from initial mirror ﬁelds. The PFRC-1 and PFRC-2 experiments have heated electrons to energies
+well in excess of 100 eV and plasma durations to 300 ms, more than 104 times longer than the predicted tilt instability
+based on the PFRC concept. The resulting 1–10 MW PFRC reactors would be suitable for diverse applications, from
+submarines to urban environments to space propulsion. PFRC is a steady-state, driven magnetic conﬁnement device.
+Plasma, inside a cylindrical array of coils, is conﬁned and heated by external RF antennae. PFRC would be ultra-low
+radiation due to both its fuel and small size. The choice of advanced fuels, deuterium and helium-3 (D–3He), may be
+enabled by the high-b FRC conﬁguration. The small size of the reactor would enable rapid exhaust of the dangerous tritium
+PFRC and a summary of the PFRC-2 experiment results to date. It then discusses the future program plan and how PFRC
+the Max-Planck Institute, and FRCs at
+Helion is pursuing D–3He and D–D fusion.
+The Princeton Field-Reversed Conﬁguration (PFRC) is a
+one RF system, odd-parity Rotating Magnetic Field
+(RMFo), to drive plasma current, heat the plasma, improve
+conﬁnement, and provide stability. PFRCs would burn
+deuterium and helium-3, (D–3He), a fuel mixture that
+would promote rapid exhaust of the tritium (T) produced
+by D-D side reactions, [1, 2] further reducing the neutron
+For military forward power, a 1-MW PFRC could be
+Prior work for forming FRC plasmas with RMF have
+near-FRC plasma but with open magnetic ﬁeld lines. We
+call this even-parity heating, RMFe, due to the symmetry of
+the induced magnetic ﬁeld. [7–9] RMFe was proposed to
+peratures. However, RMFe produces open ﬁeld lines that
+Fig. 1 Truck mounted 1 MWe PFRC.
+time. RMFo, ﬁrst
+predicted to maintain an FRC’s closed ﬁeld-line structure
+and heat ions to fusion-relevant temperatures. [10, 11] The
+model. [12] FRC formation by RMFo has been modeled
+RMFo, each of the four RF antenna sections are two joined
+magnetic null line near the FRC’s midplane. The azimuthal
+RMFo-generated electric ﬁeld near
+accelerates charged particles into betatron orbits, ions in
+acceleration created by the RMFo-induced electric ﬁeld.
+Axial electron acceleration is also caused by RMFo-in-
+electron heating to be generated by the RMF is caused by
+in near synchronization with the RMFo. Explosive ion
+heating to D–3He-fusion temperatures has been predicted
+by the RMF code, [11, 14–16] see Fig. 2. Initial bench-
+marking of the RMF code has been conducted in the ﬁrst
+iteration of PFRC, the PFRC-1 device, where the measured
+been seen in several RMF-FRC experiments. The expla-
+The PFRC-2 is an experiment currently operating at the
+is near 1 ls in the PFRC-2. Contradicting the ﬂuid-based
+theory, PFRC-2 discharges of 300-ms duration have been
+sustained. The near-term PFRC-2 research plan is to raise
+the axial magnetic ﬁeld to over 1 kG, lower the RMF
+frequency to 2 MHz, and increase the RMF ﬁeld strength to
+In the next-step PFRC device, PFRC-3, studies will be
+made of RMFo antenna conﬁgurations, reduction of heat
+pressure, all in hydrogen plasmas. A reactor prototype
+PFRC, PFRC-4, would then be built with a goal of pro-
+ducing more than 100 kW of quasi-steady-state fusion
+power. The reactor prototype, using D-3He, would be used
+by the RMF code. [11, 14–16]
+The reference FRC parameters
+are radius of 10 cm, elongation
+the strength of the RMF ﬁeld
+RMF frequency to the ion
+possible only in PFRC-type reactors.
+Overview of the PFRC Reactor Concept
+The PFRC employs a unique radio frequency (RF) plasma
+heating method, RMFo. When scaled up to achieve fusion
+parameters, PFRC-type power-producing reactors would be
+4-8 m long and 1.5 m diameter and produce 1 to 10 MW of
+fusion power. By methods to be soon described, PFRC
+damaging neutrons. This greatly reduces the need for
+PFRC Concept of Operations
+active trim coils for plasma shape control.
+The startup system, for energizing the coils and starting the
+uum vessel is shown in orange. The RMF generator system
+is depicted above the vacuum vessel. Coil refrigeration is
+neutrons, little fusion power is deposited in the PFRC core
+by its fusion products. Because of the PFRC’s relatively
+removes the ash, avoiding the harmful ash build-up of such
+enabled by the small size of the FRC, is a key improvement
+from previous D–3He FRC reactor concepts. [25–28] The
+the exhaust box end wall. X rays would be thermalized
+which is used to drive the RMFo. Excess heat is released to
+the exhaust chamber and with further processing down
+PFRC has a high Carnot efﬁciency because the working
+ceramic heat-exchanger materials. High-temperature gas-
+release most of their energy as neutrons whose energy is
+absorbed by a lithium blanket. The peak temperature is
+RMFo Heating Method
+The RMFo plasma heating method uses a unique conﬁgu-
+experiment, each of the four PFRC antenna sections are
+orange Kapton tape) is visible on the side of PFRC-2 in
+antenna results in a rotating magnetic ﬁeld, RMF, of
+noted before, odd-parity RMF maintains an FRC’s closed
+Fig. 3 Schematic of the PFRC reactor concept. The antenna and shielding geometry are notional.
+Fig. 4 PFRC block diagram with additional power plant subsystems.
+PFRC.
+Ideally, for simplest design and operation, the RMF
+shielding, as they are on PFRC-2. However, this requires
+the shielding structure. This may introduce paths for
+neutron scattering up the power ﬂow channel. One
+prospective antenna shielding material is Boron-10, which
+has a high neutron absorption cross-section and low con-
+higher temperatures. This presents a trade-off between
+neutron shielding and RMF penetration dependent on the
+RMFo antennas will be investigated under an ongoing DOE
+Fig. 5 A plasma shot in the
+PFRC-2 experiment at PPPL.
+predicted in the PFRC core by a
+Power Flow and Neutron Loads
+We have studied the power ﬂow throughout the PFRC-
+reactor system using a 1D FRC model that assumes a Hill’s
+vortex density scaling and uniform temperature. Fig. 7
+MW of RMF power and assuming a 50% efﬁcient Brayton
+cycle. The RMF power is produced with efﬁciency greater
+power generated is 0.57 MW. Compared to the ﬁgure in
+1-D PFRC reactor scaling. The
+radius of 25 cm and elongation
+temperature of 100 keV, central
+ﬁeld of 5.5 T, and 98% wall
+density and temperature is
+5.7(cid:5)1020 m(cid:6)3 and 66 keV.
+TAE FRCs have achieved that quality at the keV ion-
+temperature level. [30–33]
+The PFRC is speciﬁcally designed to have low neutron
+level, about 1000 times lower wall loading, i.e., neutron
+pressure to the magnetic-ﬁeld energy density, FRCs should
+achieve the high temperatures necessary to burn the
+magnetic ﬁeld. D-3He fusion requires achieving (cid:3) 100
+keV ion temperatures. The D-3He fusion reaction results in
+no damaging neutrons. Low-energy neutrons would be
+energy neutrons would be created if the T fusion product
+Burning D–3He at high temperatures in a tokamak or large
+FRC reactor could result in an increase in neutrons due to
+A PFRC-type reactor has three design features to greatly
+reduce the number and impact of the neutrons from this
+baseline: 1) the small size of the reactor ( (cid:3) 25 cm plasma
+upwards to as much as 3:1, sacriﬁcing some power density
+for lower neutron production; and 3) via the shell, PFRCs
+occurring. The only neutrons produced would have an
+energy of 2.45 MeV. An an example, for 1:1 fuel ratio at
+100 keV and electron density of 6(cid:5)1020 per m3, the rate of
+D-D neutrons produced is 4.8(cid:5)1017 per m3 per second. At
+30 cm radius, the approximate location of the ﬁrst wall, the
+ﬂux is 9(cid:5)1017 n/m2 (13 kW/m2).
+reactor is characterized by the so-called FRC s-parameter,
+the FRC’s central ﬁeld) to the separatrix radius at the
+effectively exhausted.
+Losses in a Small FRC Reactor
+verse thermal conductivity, [36] T is the ion temperature of
+100 keV, A is the surface area of the plasma through which
+plasma radius, since in an FRC the gradient length scale is
+Taking the plasma to be a prolate ellipsoid with 25 cm
+semi-minor axis (plasma radius) and 75 cm semi-major
+axis (elongation of 3), we estimate Qloss (cid:3) 0:5 MW, which
+mula breaks down near the ﬁeld null line of an FRC.
+For several reasons, PFRCs are expected to have better
+instability boundaries requires q [ 3. In FRCs where there
+theory, FRCs having the same magnetic ﬁeld and plasma
+temperature would have 10 times better energy conﬁne-
+PFRC-type reactor, the orbits of the thermal ions are a
+Three, the plasma in a PFRC will be 10 times hotter than
+that the 10 times higher b in FRCs, compared to tokamaks,
+temperature needed. Hence both
+operate at the same magnetic ﬁeld strength, (cid:3) 6 T.
+Status of development: The PFRC-2
+RMFo current drive was ﬁrst demonstrated in the 4-cm
+plasma radius PFRC-1 experiment in 2006. [17] Experi-
+PFRC-2, which has a ﬂux conserver inner radius of 8 cm
+heating in PFRC-2 have surpassed theoretical predictions,
+with minority electron populations reaching temperatures
+of 500 eV, maximum energies exceeding 1.5 keV, and
+pulse lengths up to 300 ms, though typically 10 ms. PFRC-
+forward power up to 100 kW, (central) vacuum magnetic
+PFRC-2 is being upgraded to operate with an RMF
+0.1 T, and a total RMF forward power of 200 kW. This
+results in an RMF ﬁeld strength of up to 15 G. At these
+ion heating to energies above 1 keV. [19] Table 1 gives the
+latest results and the targets for both PFRC-2 and future
+machine generations. PFRC-4 is envisioned as a prototype
+The line-averaged electron density time traces were mea-
+sured with a 170-GHz interferometer located (cid:3) 10 cm
+from the FRC’s midplane. A gas puff of 2 ms duration is
+detector (SDD). The analysis of X-ray data from PFRC-2 is
+show bulk electron temperatures of 75 eV. Electron tem-
+peratures up to 500 eV have been measured for a minority
+comprise about 1% of the bulk density. Recent DEGAS-
+hydrogen density proﬁle in the PFRC-2 core plasma is at
+X-ray analyses, reaching 10% of the bulk density. The
+FRC midplane, obtained by viewing the plasma along
+The next step for PFRC-2 will be the attachment of the
+ion temperatures. These experiments are planned for early
+2023. Presently we are testing the RMFo system at the
+upgraded frequency and preparing to install additional coils
+and FRC stability, and measurements of electron temper-
+ature proﬁles in the PFRC-2.
+The development plan to transition from PFRC-2 to a
+pilot power plant includes an intermediate PFRC-3 device
+with a ten times stronger ﬁeld, about 1 T, [19] to be
+achieved with a low-temperature superconducting magnet
+array. PFRC-3 goals include an FRC plasma radius greater
+than 15 cm, a bulk ion temperature of 10 keV, plasma
+
+==== starship_100_year_paper.pdf ====
+Modular Aneutronic Fusion Engine
+!  Aneutronic Fusion
+!  The Modular Aneutronic Fusion Engine
+Aneutronic Fusion
+!  Fusion reactions that produce few neutrons
+-  D + 3He → 4He (3.6 MeV) + p (14.7 MeV)
+!  D + D →   2T (1.01 MeV) + H (3.02 MeV)
+!  D + D → 2 3He (0.82 MeV) + n (2.45 MeV)
+-  p + 11B → 3 4He + 8.6 MeV
+!  Fusion products can be exhausted directly through a
+magnetic nozzle to produce thrust
+-  Jet exhaust is somewhat more complicated with spherical or
+temperatures than D-T
+D-3He Side Reactions
+Temperature (KeV)
+at high temperatures
+at high temperatures and
+high magnetic fields
+Radiator
+He + 8.6 MeV
+-  Pulsed high density fusion rocket
+-  Spherical tokamak with ripple effects for thrust extraction
+-  Colliding beam FRC
+-  RF heated FRC (our concept)
+!  Key Elements: FRC, RF heating and magnetic nozzle
+Makes a small, 5 – 10 MW fusion reactor feasible
+D-3He maintain pressure by having a ratio of 1 D to 2 3He while reducing D-D side reactions
+Ratio of magnetic pressure to plasma pressure nearly 1 – only levitated dipole is better
+Can use passive flux conservers – strips of high temperature superconducting film eliminates the need for  active superconductors for confinement
+Odd parity rotating magnetic field – heats electrons
+Coil Power
+Coil Cooling
+Superconducting Coil
+FRC
+Nozzle Coil
+Radiator
+Shielding
+!  FRC
+-  FRC stability properties
+-  Complete understanding of FRC stability
+!  14 N constant thrust
+-  Not necessarily optimal thrust
+!  Exhaust ½ maximum from D-3He
+-  Not necessarily the optimal exhaust
+!  Assumes 10 kW/kg
+-  Our work shows 670 W/kg!
+Thrust
+!  Nine 10 MW engines
+!  16 m antenna
+!  0.5 m aperture
+differential thrust
+20 m
+!  Neutron bombardment the major limitation to
+-  Boron proton 1000 times lower neutron flux than deuterium
+-  Reduce neutron flux by choice of temperature and using less D
+!  Improvement of specific power critical
+-  Magnetized target fusion claims 400 kW/kg!
+!  Neutron damage a major issue for the engines
+!  Continue development of the RF heated FRC
+-  Find the optimal densities and temperatures
+-  Variable thrust and exhaust velocity
+
+==== tesi.pdf ====
+strate the great advantages related to the Direct Fusion Drive (DFD). The DFD
+is based on a D-3He fueled, aneutronic, thermonuclear fusion propulsion system,
+products, and then expanded into a magnetic nozzle, providing both thrust and
+single DFD module, which provides 8 N of constant thrust and a speciﬁc impulse
+of ≈ 104 s. Two diﬀerent proﬁle missions have been considered: the ﬁrst one is a
+thrust-coast-thrust proﬁle with constant thrust and speciﬁc impulse and the second
+is a continuous and constant thrust proﬁle, with a switch in thrust direction oper-
+of payload mass and travel time. The ﬁrst scenario analysed is the thrust-coast-
+thrust proﬁle mission which is based on the assumption that the DFD is capable to
+turn oﬀ and on the thrust generation, though without restart the engine. This is
+an important hypothesis which requires that the engine will not produce thrust for
+is the continuous thrust proﬁle mission, which leads to the advantage related to the
+fuel (3He) if compared with the main scenario of the thrust-coast-thrust proﬁle mis-
+It is important to emphasize that the deceleration capability is one of the DFD
+game changer: in fact, the DFD performance allows to rapidly reach high velocity
+and decelerate in even shorter time period via low-thrust maneuvers, that would
+results in a total trip duration of 2.6 years for the thrust-coast-thrust proﬁle and less
+than 2 years considering the continuous thrust proﬁle. The high payload enabling
+3.7 Fuel choice and neutron production . . . . . . . . . . . . . . . . . . . . . . 53
+3.8 DFD Engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+3.9 Thrust Augmentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+4.1.1 Thrust vector orientation . . . . . . . . . . . . . . . . . . . . . . . . 67
+4.5.3 Thrust-coast-thrust mission proﬁle
+4.5.4 Continuous thrust mission proﬁle . . . . . . . . . . . . . . . . . . . 105
+neutrons are shown like spherical particles, respectively red and grey [26]. . 16
+1.3 Schematic illustration of the nuclear ﬁssion process, where a neutron hits
+the temperature [34].
+temperature [36].
+D-T, D-D and D-3He nuclear reactions [35].
+D-T, D-D and D-3He nuclear reaction [35].
+3.4 A magnetic nozzle showing the magnetic ﬁeld strength along the axis of
+the nozzle. Currents in the ﬁeld coils generate the magnetic ﬁeld B and
+the related magnetic forces act on the plasma and allow to generate thrust
+cases results in the exhaustion of the arc itself [4].
+cases results in the exhaustion of the arc itself [4].
+inner and outer poloidal ﬁeld coils (green) which generate a magnetic cage
+3.16 The ﬁeld-reversed conﬁguration (FRC) [55].
+3.17 Schematic of a PFRC machine with its simple linear conﬁguration and
+directed exhaust stream. Fusion occurs in the closed-ﬁeld-line region. Pro-
+are accelerated axially as they pass through the nozzle coil. Fuel is injected
+into the FRC core by neutral beams.
+3.18 Figure(a): Real picture of the PFRC-2 experiment in the Princeton Plasma
+diﬀerent ﬁeld surfaces in the core of the DFD.
+3.19 PFRC-2 rotating ﬁeld scheme. External antenna produce rotating mag-
+3.20 A representation of the azimuthal electric ﬁeld in the midplane of FRC
+3.21 In the frame rotating with the RM Fo, the punctuated betatron trajectory
+appears as a crescent, with the betatron segments “inside” the cyclotron
+3.25 Variation of the thrust and power with engine speciﬁc power considered.
+3.26 Thrust data from UEDGE simulations of SOL input power (MW) and gas
+3.27 Thrust model verses UEDGE simulation data. Credit: Princeton Satellite
+3.28 Thrust performance for a 1 MW power input. Credit: Princeton Satellite
+3.29 Thrust performance for a 4 MW power input. Credit: Princeton Satellite
+3.30 UEDGE thrust eﬃciency from input power. Credit: Princeton Satellite
+3.31 Dependence of thrust and exhaust velocity on propellant ﬂow and SOL
+mass input, but it would lead to higher thrust and Isp. An increase of
+power input would also increase the range in which T and Isp vary.
+4.11 Thrust-coast-thrust proﬁle for the Titan mission. It is possible to see three
+segments of the trajectory, the red curves suggest that the spacecraft thrust
+4.30 Planar trajectory for the continuous thrust proﬁle mission. At the end of
+the white segment there is the change in direction of the thrust at the switch
+4.31 Saturn orbit insertion for the continuous thrust proﬁle mission. The yellow
+optimizer (SNOPT) on STK software. The thrust components have been
+linear optimizer (SNOPT) on STK software. The thrust components have
+4.21 Comparison between the thrust-cost-thrust (T-C-T) proﬁle and the con-
+tinuous thrust (continuous T) proﬁle missions.
+5.2 Comparison between the thrust-cost-thrust (T-C-T) proﬁle and the con-
+tinuous thrust (continuous T) proﬁle missions.
+although their high speciﬁc impulse (Isp ≈ 1500 − 5000 s), because of the extremely low
+thrust. CP systems are not convenient due to the limitation on the maximum speciﬁc
+impulse (Isp ≈ 450 s) [4], directly dependent on the fuel chemical energy. Shorter the
+needs onboard to generate thrust in space.
+thrust. And even though solar sail acceleration is much slower, it has the advantage of
+a continuous thrust (as well as for the electric propulsion) which is “directly” related to
+Clerk Maxwell (1865) [10, 11], Solar sails generate thrust by exploiting radiation pressure
+system requires advanced propulsion techniques capable of speciﬁc impulse above 104 s
+and speciﬁc power in the range 1 − 10 kW/kg [19], which is related to the speciﬁc mass α
+expressed in kg/kW (the thrust power per unit mass). In particular, nuclear fusion is the
+density of the fuel and the high velocity of the fusion products. The onboard nuclear
+reactor provides heat which allows a higher eﬀective exhaust velocity that would have
+energy to generate propulsive thrust: nuclear thermal propulsion (NTP) and nuclear
+is heated by the reactor into a high temperature gas, and then ejected from the exhaust
+hydrogen, is heated to a high temperature in a nuclear reactor and then expands through
+a nozzle to generate thrust and the high plasma temperatures result in very high speciﬁc
+sion technology (such as ion thruster). In contrast with nuclear thermal propulsion, which
+come from the ion thruster itself, the power processing unit (PPU), the propellant and
+In 1965, the ﬁrst ﬂight test of a space nuclear reactor, the SNAP-10A (systems nuclear
+speciﬁc mass of about 670 kg/kW [24]. During the test the engine operated for 40 days,
+producing a maximum power of 650 W. About twenty years later, with the SP-100 space
+reactor program, a 100 kW reactor was designed in which the overall mass of the system
+would have been about 4600 kg, including radiation shield, within a speciﬁc mass of about
+46 kg/kW if everything worked as intended [25].
+are neutrons and protons, which are called nucleons. Deﬁnitely, a crucial point is related
+nucleus of an atom into protons and neutrons.
+neutrons are shown like spherical particles, respectively red and grey [26].
+less than the sum of the individual masses of the free constituent protons and neutrons,
+vacuum (c ≈ 3 · 108 m/s). Therefore, thinking to notions predicated on this elegant and
+Figure 1.3: Schematic illustration of the nuclear ﬁssion process, where a neutron hits the
+released. Whereas an heavy unstable nucleus, if a thermal neutron, any free neutron that
+process occours and products are formed, such as smaller nuclei and few neutrons.
+with A ≈ 4, the value of Coulomb potentian is Vc ≈ 1.6 MeV, which is the energy
+would be elastically scattered. The necessary temperature may be estimated from the
+relation E = kbT , where kb = 8.6 · 105 eV K−1 is the Boltzmann’s constant and T is the
+temperature in K. Calculations lead to a temperature of ≈ 1010 K, which is well above
+Sun’ nucleus temperature (108 K). Fusion process is actually possible at less stringent
+conditions than this estimated temperature due to a combination of two eﬀects. The
+occurs at a lower temperature than expected is that a collection of nuclei at a given
+mean temperature will have a Maxwellian distribution of energies about the mean and
+which would be expelled to produce thrust.
+(≈ 10−17 s to 10−5 s) during which time they would travel signiﬁcant distances in free
+which ended up with the thrust generation process inside the direct fusion drive. The
+DFD, explaining why it is so attractive.
+the thrust generation process and its performances. In the third chapter it is explained the
+basic approach to orbital mechanics and low thrust trajectory, and also the software used
+reaction. Bombarding Boron with neutrons traveling 1, 000, 000 cm/s, has a cross section
+for the neutron-capture reaction of about 120 barns, and the cross section increases to
+≈ 1, 200 barns for slow neutrons traveling at 100, 000 cm/s, while boron’s cross-sectional
+area is only about 0.1 barns [32]. In fact, boron is a good absorber of neutrons because
+of its large cross section and it is usually used as a neutron moderator in many nuclear
+nb, at a temperature T high enough so that the nuclei form a plasma, with uniform values
+is the average over the Maxwellian velocity distribution at temperature T . The fusion
+exponential term. With increasing temperature the falling exponential of the Maxwellian
+Therefore the range of energy, which determines the range of temperature needed for
+Therefore, the importance of the temperature and the Gamow energy E G = 2mrc2 (παZ1Z2)2
+temperature [34].
+In summary, the rate depends very strongly on both the temperature and the nuclear
+necessary to heat a plasma at very high temperatures (≈ 100 million ◦C, more than six
+times the temperature inside the sun). It is also important to emphasize that plasma must
+which depends on the plasma temperature. As previously said, the kinetic energy which
+of energy (such as neutrons) and other not negligible losses, which will discussed in the
+1T −→ 4
+the useful form of energy is only about 3.5 MeV, the kinetic energy of 4
+energy is drown by the neutron.
+T , force to work at suﬃciently high temperatures in order
+that at the high temperatures present in a thermonuclear fusion reaction, the production
+In addition to power densities, Fig. 2.3 reveals the pressures at the various temperature
+of kinetic temperature in Kelvin.
+emitted as Bremsstrahlung emissions may be lost as far as maintaining the temperature
+called betatron radiation) [40].
+tions needed for a fusion reactor to reach what is known as ignition temperature, which is
+the temperature of the plasma against all losses with external power input [35]. As dis-
+order to heat plasma and maintain it at temperature T and number density n, which is
+temperature and, when enough of that energy is absorbed by the system, it is said to be
+total heating power. Then, with the assumption of equal particle density of the reactants
+n1 = n2 = n (n plasma number density), Lawson criterion [35] is given
+density such as electron ne and the energy conﬁnement time τE. In the ﬁgure below is
+represented a typical Lawson criterion, or minimum value of electron density multiplied
+the temperature at which the reaction rate takes place is proportional to the square of the
+number density and the time during which conﬁnement can be secured turns out to be
+limited to a small fraction of a second. Therefore, the density needed in order to achieve a
+not negligible losses, such as neutrons products which cannot help to heat the plasma and
+D-D and D-3He nuclear reactions [35].
+Finally, another extremely useful ﬁgure of merit is the triple product of density, temper-
+having both high density and high temperature, and also long enough conﬁnement time.
+of reactors have been improved considerably. In most cases, density and temperature vary
+quite widely, while pressure beyond a certain threshold remains constant. Then, one can
+say that fusion power density is proportional to p2(cid:104)σv(cid:105)
+D-T, D-D and D-3He nuclear reaction [35].
+2He + γ + 5.49 MeV,
+2He + γ + 23.85 MeV,
+2He (0.82 MeV) + n0 | 50%,
+1T (1.01 MeV) + p (3.02 MeV) | 50%,
+1T −→ 4
+2He (3.49 MeV) + n0 (14.1 MeV),
+2He (3.6 MeV) + p (14.7 MeV),
+1T + 3
+1T −→ 4
+2He + 2 n0 + 11.3 MeV,
+1T −→ 4
+2He + p + n0 + 12.1 MeV | 57%,
+1T −→ 4
+2He (4.8 MeV) + 2
+1D (9.5 MeV) | 43%,
+2He + p + 16.9 MeV,
+2He + 2 p + 12.9 MeV,
+2He + 22.4MeV,
+2He (1.7 MeV) + 3
+2He (2.3 MeV),
+2He + 8.7 MeV.
+would have to be used to maintain the temperature of the reacting material. However,
+the reactor to compensate for energy losses and maintain the temperature. Even more
+(aneutronic reaction), which makes it relatively easy to contain more of the energy in the
+reactor if required. Also, the fuel is not radioactive, no neutrons are produced which, in D-
+and the reactor temperature to achieve a given reaction rate, using a D-3He mixture, would
+1T + 3
+1T −→ 4
+2He + 2 n0 + 11.3 MeV,
+This is a relatively simple reaction to obtain, where two neutrons are produced per
+1T −→ 4
+2He (3.49 MeV) + n0 (14.1 MeV)
+isotope deuterium (with one “extra” neutron) collides with the tritium (with two
+“extra” neutrons) to form an alpha particle (a helium nucleus) and a neutron. The
+• This kind of reaction has low eﬃciency due to highly energetic neutrons, in
+addition to the problem related to the half life of tritium. The neutrons released
+1 T −→ 4
+2He + p + n0 + 12.1 MeV | 57%,
+1 T −→ 4
+2He (4.8 MeV) +2
+1 D (9.5 MeV) | 43%.
+2He (3.6 MeV) + p (14.7 MeV)
+In this reaction no neutrons are produced and all products are ionized particles

@@ -1,0 +1,406 @@
+
+        <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 32px; color: #111; }
+        h1, h2 { color: #0b3d91; }
+        table { border-collapse: collapse; width: 100%; margin: 12px 0 24px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background: #f4f6f8; }
+        .note { color: #555; font-size: 0.95em; }
+        code { background: #f4f6f8; padding: 2px 4px; border-radius: 4px; }
+        </style>
+        <h1>DFD Inverse Design Report</h1><p class='note'>Generated 2026-01-23 22:31 UTC</p>
+<h2>Mission-Ready Engineering Dashboard</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Thrust (N)</th>
+      <th>TWR</th>
+      <th>Isp (s)</th>
+      <th>Q_plasma</th>
+      <th>Q_engineering</th>
+      <th>Fuel Burn D (kg/yr)</th>
+      <th>Fuel Burn He3 (kg/yr)</th>
+      <th>Stored Energy (J)</th>
+      <th>Wall Heat Flux (MW/m2)</th>
+      <th>Neutron Rate (1/s)</th>
+      <th>Scintillator Rate (1/s)</th>
+      <th>Specific Power (kW/kg)</th>
+      <th>Specific Power alpha (kg/kW)</th>
+      <th>Divertor Heat Flux (MW/m2)</th>
+      <th>Synchrotron Power (MW)</th>
+      <th>RMF Penetration (m)</th>
+      <th>RMF Penetration OK</th>
+      <th>S-Factor</th>
+      <th>Elongation</th>
+      <th>Total Mass (kg)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>281775.450943</td>
+      <td>0.02418</td>
+      <td>5750.0</td>
+      <td>19.943378</td>
+      <td>8.221563</td>
+      <td>253.637475</td>
+      <td>380.456212</td>
+      <td>8.174352e+06</td>
+      <td>25.716464</td>
+      <td>2.113316e+20</td>
+      <td>2.522585e+16</td>
+      <td>5.928074</td>
+      <td>0.168689</td>
+      <td>15731.80364</td>
+      <td>8.113217</td>
+      <td>0.000356</td>
+      <td>False</td>
+      <td>43.769472</td>
+      <td>16.348703</td>
+      <td>1.188309e+06</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Master Bill of Materials (BOM)</h2>
+<p class='note'>BOM source: Fusion 360 materials CSV</p>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Component</th>
+      <th>Material</th>
+      <th>Mass</th>
+      <th>Raw Cost</th>
+      <th>Mfg Cost</th>
+      <th>Value Added</th>
+      <th>Total Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Coils</td>
+      <td>Copper Wire</td>
+      <td>0.01212</td>
+      <td>0.24240</td>
+      <td>0.484800</td>
+      <td>0.242400</td>
+      <td>0.484800</td>
+    </tr>
+    <tr>
+      <td>Housing</td>
+      <td>Stainless Steel 316L</td>
+      <td>0.01339</td>
+      <td>0.10712</td>
+      <td>0.235664</td>
+      <td>0.128544</td>
+      <td>0.235664</td>
+    </tr>
+    <tr>
+      <td>RMF Antennas</td>
+      <td>Copper</td>
+      <td>0.00328</td>
+      <td>0.06560</td>
+      <td>0.131200</td>
+      <td>0.065600</td>
+      <td>0.131200</td>
+    </tr>
+    <tr>
+      <td>Frame Rails</td>
+      <td>Stainless Steel 316L</td>
+      <td>0.00209</td>
+      <td>0.01672</td>
+      <td>0.036784</td>
+      <td>0.020064</td>
+      <td>0.036784</td>
+    </tr>
+    <tr>
+      <td>Cooling Jacket</td>
+      <td>Aluminum 6061</td>
+      <td>0.00284</td>
+      <td>0.01704</td>
+      <td>0.023856</td>
+      <td>0.006816</td>
+      <td>0.023856</td>
+    </tr>
+    <tr>
+      <td>Bias Ring Electrodes</td>
+      <td>Copper</td>
+      <td>0.00052</td>
+      <td>0.01040</td>
+      <td>0.020800</td>
+      <td>0.010400</td>
+      <td>0.020800</td>
+    </tr>
+    <tr>
+      <td>Nozzle Guard</td>
+      <td>Aluminum 6061</td>
+      <td>0.00158</td>
+      <td>0.00948</td>
+      <td>0.013272</td>
+      <td>0.003792</td>
+      <td>0.013272</td>
+    </tr>
+    <tr>
+      <td>Support Struts</td>
+      <td>Stainless Steel 316L</td>
+      <td>0.00063</td>
+      <td>0.00504</td>
+      <td>0.011088</td>
+      <td>0.006048</td>
+      <td>0.011088</td>
+    </tr>
+    <tr>
+      <td>Thermal Shield</td>
+      <td>Aluminum 6061</td>
+      <td>0.00113</td>
+      <td>0.00678</td>
+      <td>0.009492</td>
+      <td>0.002712</td>
+      <td>0.009492</td>
+    </tr>
+    <tr>
+      <td>Inner Liner</td>
+      <td>Aluminum 6061</td>
+      <td>0.00079</td>
+      <td>0.00474</td>
+      <td>0.006636</td>
+      <td>0.001896</td>
+      <td>0.006636</td>
+    </tr>
+    <tr>
+      <td>TOTAL ASSEMBLY</td>
+      <td>Mixed Materials</td>
+      <td>0.00004</td>
+      <td>0.00160</td>
+      <td>0.005600</td>
+      <td>0.004000</td>
+      <td>0.005600</td>
+    </tr>
+    <tr>
+      <td>Electronics Bay</td>
+      <td>Aluminum 6061</td>
+      <td>0.00063</td>
+      <td>0.00378</td>
+      <td>0.005292</td>
+      <td>0.001512</td>
+      <td>0.005292</td>
+    </tr>
+    <tr>
+      <td>Mounting Feet</td>
+      <td>Stainless Steel 316L</td>
+      <td>0.00028</td>
+      <td>0.00224</td>
+      <td>0.004928</td>
+      <td>0.002688</td>
+      <td>0.004928</td>
+    </tr>
+    <tr>
+      <td>Nozzle</td>
+      <td>Aluminum 6061</td>
+      <td>0.00025</td>
+      <td>0.00150</td>
+      <td>0.002100</td>
+      <td>0.000600</td>
+      <td>0.002100</td>
+    </tr>
+    <tr>
+      <td>Gas Box</td>
+      <td>Aluminum 6061</td>
+      <td>0.00023</td>
+      <td>0.00138</td>
+      <td>0.001932</td>
+      <td>0.000552</td>
+      <td>0.001932</td>
+    </tr>
+    <tr>
+      <td>Injector Ring</td>
+      <td>Aluminum 6061</td>
+      <td>0.00005</td>
+      <td>0.00030</td>
+      <td>0.000420</td>
+      <td>0.000120</td>
+      <td>0.000420</td>
+    </tr>
+    <tr>
+      <td>Target Constraints:</td>
+      <td>nan</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Target Thrust</td>
+      <td>nan</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Target Power</td>
+      <td>nan</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Target Voltage</td>
+      <td>nan</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Target Mass</td>
+      <td>nan</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Actual Mass</td>
+      <td>nan</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+<p><strong>Unit Cost:</strong> $1</p>
+<h2>Technology Gap Report</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Component</th>
+      <th>Current_Limit</th>
+      <th>Required_Spec</th>
+      <th>Margin</th>
+      <th>Status</th>
+      <th>Suggested_RD_Path</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Max B-Field (T)</td>
+      <td>20.0</td>
+      <td>5.000000</td>
+      <td>15.000000</td>
+      <td>OK</td>
+      <td>Off-the-shelf</td>
+    </tr>
+    <tr>
+      <td>Max Wall Heat Flux (MW/m2)</td>
+      <td>10.0</td>
+      <td>25.716464</td>
+      <td>-15.716464</td>
+      <td>INVENT NEW</td>
+      <td>Advanced liquid metal cooling</td>
+    </tr>
+    <tr>
+      <td>Max Current Density (A/mm2)</td>
+      <td>400.0</td>
+      <td>106.103295</td>
+      <td>293.896705</td>
+      <td>OK</td>
+      <td>Off-the-shelf</td>
+    </tr>
+    <tr>
+      <td>RF Specific Mass (kg/kW)</td>
+      <td>1.5</td>
+      <td>1.500000</td>
+      <td>0.000000</td>
+      <td>OK</td>
+      <td>Off-the-shelf</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Design Description</h2>
+<p>This optimized D-He3 Field-Reversed Configuration (FRC) uses a cylindrical plasma chamber with radius 0.20 m and length 6.54 m, confined by a 5.0 T axial magnetic field. The plasma operates at an ion temperature of 10.0 keV and a D:He3 ratio of 1:5.00, with propellant injected at 1.759 kg/s. The beta-limited plasma pressure is balanced by the magnetic pressure, and the electron temperature is solved to satisfy heating-cooling equilibrium (alpha + auxiliary heating vs bremsstrahlung and ion-electron drag). Charged fusion products are magnetically expanded through the rear nozzle to generate thrust, while the neutron fraction drives the shielding and radiator sizing. Stability is enforced via the S-factor (tilt instability) and elongation (tearing mode) constraints. The system produces ~281,775 N of thrust at ~5,750 s Isp with a total dry mass of ~1,188,309 kg.</p>
+<h2>Equations Used</h2>
+<ul><li>Magnetic pressure: P_mag = B^2 / (2 * mu0)</li><li>Plasma pressure (beta limit): P_plasma = beta * P_mag</li><li>Density from pressure: n = P_plasma / (k_B * (T_e + T_i))</li><li>Fusion power: P_fus = n_D * n_He3 * <sigma v> * E_fus * V</li><li>Power balance (multi-fluid): P_i = P_alpha,i + P_RMF,i - P_ie - P_loss,i</li><li>Power balance (multi-fluid): P_e = P_alpha,e + P_RMF,e + P_ie - P_brem - P_syn - P_loss,e</li><li>Bremsstrahlung: P_brem ∝ Z_eff^2 * n^2 * sqrt(T_e) * V</li><li>Synchrotron (Trubnikov): P_syn ∝ n_e B^2 T_e (1 + T_e/204) (1 - R_wall)^0.5</li><li>Ion gyroradius: rho_i = sqrt(2 * m_i * k_B * T_i) / (q * B)</li><li>Stability: S = r / rho_i, E = L / (2r)</li><li>Q_plasma = P_fus / P_aux</li><li>Q_engineering = P_fus / (P_aux/eta_RF + 0.05 * P_fus)</li><li>Thrust: F = m_dot * v_e, v_e = sqrt(2 * eta_nozzle * P_charged / m_dot)</li><li>Wall heat flux: q_wall = P_neutron / (2 * pi * r * L)</li><li>Divertor heat flux: q_div = P_loss / (2 * pi * r_div * lambda_SOL)</li><li>Flux compression (liner): B_final = B_initial * (r_initial / r_final)^2</li><li>Rotation control ring voltage (approx.): V_ring ~ (2-5) * T_e (eV)</li><li>Wall potential (isothermal): phi0 ~ (kT_e/e) ln[n0(psi)n^2(rs)/(n0(0)n^2(r))] + phi0(0)</li><li>Scintillator solid angle: Omega = A / d^2</li><li>Neutron rate: Ndot = P_neutron / E_n</li><li>Detected rate: Cdot = Ndot * (Omega / 4pi) * eta</li><li>DFD thrust model: T ≈ (2.5–5) N/MW * P_fusion</li><li>DFD Isp: ~10,000 s (thrust augmentation regime)</li><li>DFD augmented thrust: ~40 N/MW, Ve ~56.5 km/s (1 MW reference)</li><li>RMF heating field: B_RMF ≈ (0.1–1%) * B_axial</li><li>RMF penetration: delta = sqrt(2 / (mu0 * sigma * omega))</li><li>DFD specific power: ~0.18 kW/kg (1 MW, 40 N reference)</li></ul>
+<h2>Optimized Design Parameters</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>r</th>
+      <th>L</th>
+      <th>B</th>
+      <th>Ti_keV</th>
+      <th>He3_to_D</th>
+      <th>m_dot</th>
+      <th>Te_keV</th>
+      <th>Thrust_N</th>
+      <th>Isp_s</th>
+      <th>TWR</th>
+      <th>Q_plasma</th>
+      <th>Q_engineering</th>
+      <th>Wall_Heat_Flux_MW_m2</th>
+      <th>S_factor</th>
+      <th>Elongation</th>
+      <th>Shield_Thickness_m</th>
+      <th>Radiator_Area_m2</th>
+      <th>Total_Mass_kg</th>
+      <th>Unit_Cost_USD</th>
+      <th>Neutron_Rate_per_s</th>
+      <th>Scintillator_Detected_per_s</th>
+      <th>Scintillator_Area_m2</th>
+      <th>Scintillator_Distance_m</th>
+      <th>Scintillator_Efficiency</th>
+      <th>Specific_Power_kW_per_kg</th>
+      <th>RMF_Field_T</th>
+      <th>Specific_Power_alpha_kg_per_kW</th>
+      <th>q_divertor_W_m2</th>
+      <th>P_syn_W</th>
+      <th>RMF_Penetration_m</th>
+      <th>RMF_Penetration_OK</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0.2</td>
+      <td>6.539481</td>
+      <td>5.0</td>
+      <td>10.0</td>
+      <td>5.0</td>
+      <td>1.75891</td>
+      <td>5.0</td>
+      <td>281775.450943</td>
+      <td>5750.0</td>
+      <td>0.02418</td>
+      <td>19.943378</td>
+      <td>8.221563</td>
+      <td>25.716464</td>
+      <td>43.769472</td>
+      <td>16.348703</td>
+      <td>2.571646</td>
+      <td>31075.488816</td>
+      <td>1.188309e+06</td>
+      <td>0.993864</td>
+      <td>2.113316e+20</td>
+      <td>2.522585e+16</td>
+      <td>0.01</td>
+      <td>1.0</td>
+      <td>0.15</td>
+      <td>5.928074</td>
+      <td>0.025</td>
+      <td>0.168689</td>
+      <td>1.573180e+10</td>
+      <td>8.113217e+06</td>
+      <td>0.000356</td>
+      <td>False</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Outputs</h2>
+<p>CAD: <code>Fusion 360 (DFD_fusion360/fusion360_dfd_thruster.py)</code></p>
+<p>Pareto plot: <code>pareto_frontier.png</code></p>
+<p class='note'>STEP CAD generation disabled (Fusion 360 model is source of truth).</p>
